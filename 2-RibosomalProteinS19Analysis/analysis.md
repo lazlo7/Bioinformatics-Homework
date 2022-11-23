@@ -1,2 +1,2 @@
-# Ген: rpsS | Название протеина: Ribosomal Protein S19  
+# Название протеина: Ribosomal Protein S19  
 
