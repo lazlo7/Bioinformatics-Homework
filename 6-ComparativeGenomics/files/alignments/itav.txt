@@ -1,0 +1,125 @@
+########################################
+# Program: needle
+# Rundate: Mon 15 May 2023 18:57:30
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20230515-185727-0475-33915353-p2m.asequence
+#    -bsequence emboss_needle-I20230515-185727-0475-33915353-p2m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: ITAV_HUMAN
+# 2: H2R6C3_PANTR
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 1048
+# Identity:    1046/1048 (99.8%)
+# Similarity:  1047/1048 (99.9%)
+# Gaps:           0/1048 ( 0.0%)
+# Score: 5474.0
+# 
+#
+#=======================================
+
+ITAV_HUMAN         1 MAFPPRRRLRLGPRGLPLLLSGLLLPLCRAFNLDVDSPAEYSGPEGSYFG     50
+                     |||||||||||.||||||||||||||||||||||||||||||||||||||
+H2R6C3_PANTR       1 MAFPPRRRLRLCPRGLPLLLSGLLLPLCRAFNLDVDSPAEYSGPEGSYFG     50
+
+ITAV_HUMAN        51 FAVDFFVPSASSRMFLLVGAPKANTTQPGIVEGGQVLKCDWSSTRRCQPI    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+H2R6C3_PANTR      51 FAVDFFVPSASSRMFLLVGAPKANTTQPGIVEGGQVLKCDWSSTRRCQPI    100
+
+ITAV_HUMAN       101 EFDATGNRDYAKDDPLEFKSHQWFGASVRSKQDKILACAPLYHWRTEMKQ    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+H2R6C3_PANTR     101 EFDATGNRDYAKDDPLEFKSHQWFGASVRSKQDKILACAPLYHWRTEMKQ    150
+
+ITAV_HUMAN       151 EREPVGTCFLQDGTKTVEYAPCRSQDIDADGQGFCQGGFSIDFTKADRVL    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+H2R6C3_PANTR     151 EREPVGTCFLQDGTKTVEYAPCRSQDIDADGQGFCQGGFSIDFTKADRVL    200
+
+ITAV_HUMAN       201 LGGPGSFYWQGQLISDQVAEIVSKYDPNVYSIKYNNQLATRTAQAIFDDS    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+H2R6C3_PANTR     201 LGGPGSFYWQGQLISDQVAEIVSKYDPNVYSIKYNNQLATRTAQAIFDDS    250
+
+ITAV_HUMAN       251 YLGYSVAVGDFNGDGIDDFVSGVPRAARTLGMVYIYDGKNMSSLYNFTGE    300
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+H2R6C3_PANTR     251 YLGYSVAVGDFNGDGIDDFVSGVPRAARTLGMVYIYDGKNMSSLYNFTGE    300
+
+ITAV_HUMAN       301 QMAAYFGFSVAATDINGDDYADVFIGAPLFMDRGSDGKLQEVGQVSVSLQ    350
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+H2R6C3_PANTR     301 QMAAYFGFSVAATDINGDDYADVFIGAPLFMDRGSDGKLQEVGQVSVSLQ    350
+
+ITAV_HUMAN       351 RASGDFQTTKLNGFEVFARFGSAIAPLGDLDQDGFNDIAIAAPYGGEDKK    400
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+H2R6C3_PANTR     351 RASGDFQTTKLNGFEVFARFGSAIAPLGDLDQDGFNDIAIAAPYGGEDKK    400
+
+ITAV_HUMAN       401 GIVYIFNGRSTGLNAVPSQILEGQWAARSMPPSFGYSMKGATDIDKNGYP    450
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+H2R6C3_PANTR     401 GIVYIFNGRSTGLNAVPSQILEGQWAARSMPPSFGYSMKGATDIDKNGYP    450
+
+ITAV_HUMAN       451 DLIVGAFGVDRAILYRARPVITVNAGLEVYPSILNQDNKTCSLPGTALKV    500
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+H2R6C3_PANTR     451 DLIVGAFGVDRAILYRARPVITVNAGLEVYPSILNQDNKTCSLPGTALKV    500
+
+ITAV_HUMAN       501 SCFNVRFCLKADGKGVLPRKLNFQVELLLDKLKQKGAIRRALFLYSRSPS    550
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+H2R6C3_PANTR     501 SCFNVRFCLKADGKGVLPRKLNFQVELLLDKLKQKGAIRRALFLYSRSPS    550
+
+ITAV_HUMAN       551 HSKNMTISRGGLMQCEELIAYLRDESEFRDKLTPITIFMEYRLDYRTAAD    600
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+H2R6C3_PANTR     551 HSKNMTISRGGLMQCEELIAYLRDESEFRDKLTPITIFMEYRLDYRTAAD    600
+
+ITAV_HUMAN       601 TTGLQPILNQFTPANISRQAHILLDCGEDNVCKPKLEVSVDSDQKKIYIG    650
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+H2R6C3_PANTR     601 TTGLQPILNQFTPANISRQAHILLDCGEDNVCKPKLEVSVDSDQKKIYIG    650
+
+ITAV_HUMAN       651 DDNPLTLIVKAQNQGEGAYEAELIVSIPLQADFIGVVRNNEALARLSCAF    700
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+H2R6C3_PANTR     651 DDNPLTLIVKAQNQGEGAYEAELIVSIPLQADFIGVVRNNEALARLSCAF    700
+
+ITAV_HUMAN       701 KTENQTRQVVCDLGNPMKAGTQLLAGLRFSVHQQSEMDTSVKFDLQIQSS    750
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+H2R6C3_PANTR     701 KTENQTRQVVCDLGNPMKAGTQLLAGLRFSVHQQSEMDTSVKFDLQIQSS    750
+
+ITAV_HUMAN       751 NLFDKVSPVVSHKVDLAVLAAVEIRGVSSPDHVFLPIPNWEHKENPETEE    800
+                     ||||||||||||||||||||||||||||||||:|||||||||||||||||
+H2R6C3_PANTR     751 NLFDKVSPVVSHKVDLAVLAAVEIRGVSSPDHIFLPIPNWEHKENPETEE    800
+
+ITAV_HUMAN       801 DVGPVVQHIYELRNNGPSSFSKAMLHLQWPYKYNNNTLLYILHYDIDGPM    850
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+H2R6C3_PANTR     801 DVGPVVQHIYELRNNGPSSFSKAMLHLQWPYKYNNNTLLYILHYDIDGPM    850
+
+ITAV_HUMAN       851 NCTSDMEINPLRIKISSLQTTEKNDTVAGQGERDHLITKRDLALSEGDIH    900
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+H2R6C3_PANTR     851 NCTSDMEINPLRIKISSLQTTEKNDTVAGQGERDHLITKRDLALSEGDIH    900
+
+ITAV_HUMAN       901 TLGCGVAQCLKIVCQVGRLDRGKSAILYVKSLLWTETFMNKENQNHSYSL    950
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+H2R6C3_PANTR     901 TLGCGVAQCLKIVCQVGRLDRGKSAILYVKSLLWTETFMNKENQNHSYSL    950
+
+ITAV_HUMAN       951 KSSASFNVIEFPYKNLPIEDITNSTLVTTNVTWGIQPAPMPVPVWVIILA   1000
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+H2R6C3_PANTR     951 KSSASFNVIEFPYKNLPIEDITNSTLVTTNVTWGIQPAPMPVPVWVIILA   1000
+
+ITAV_HUMAN      1001 VLAGLLLLAVLVFVMYRMGFFKRVRPPQEEQEREQLQPHENGEGNSET   1048
+                     ||||||||||||||||||||||||||||||||||||||||||||||||
+H2R6C3_PANTR    1001 VLAGLLLLAVLVFVMYRMGFFKRVRPPQEEQEREQLQPHENGEGNSET   1048
+
+
+#---------------------------------------
+#---------------------------------------

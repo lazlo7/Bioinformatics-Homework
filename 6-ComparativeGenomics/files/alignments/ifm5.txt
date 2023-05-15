@@ -1,0 +1,53 @@
+########################################
+# Program: needle
+# Rundate: Mon 15 May 2023 18:54:28
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20230515-185423-0582-31461186-p1m.asequence
+#    -bsequence emboss_needle-I20230515-185423-0582-31461186-p1m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: IFM5_HUMAN
+# 2: H2R5P5_PANTR
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 132
+# Identity:     131/132 (99.2%)
+# Similarity:   131/132 (99.2%)
+# Gaps:           0/132 ( 0.0%)
+# Score: 687.0
+# 
+#
+#=======================================
+
+IFM5_HUMAN         1 MDTAYPREDTRAPTPSKAGAHTALTLGAPHPPPRDHLIWSVFSTLYLNLC     50
+                     |||||||||.||||||||||||||||||||||||||||||||||||||||
+H2R5P5_PANTR       1 MDTAYPREDPRAPTPSKAGAHTALTLGAPHPPPRDHLIWSVFSTLYLNLC     50
+
+IFM5_HUMAN        51 CLGFLALAYSIKARDQKVVGDLEAARRFGSKAKCYNILAAMWTLVPPLLL    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+H2R5P5_PANTR      51 CLGFLALAYSIKARDQKVVGDLEAARRFGSKAKCYNILAAMWTLVPPLLL    100
+
+IFM5_HUMAN       101 LGLVVTGALHLARLAKDSAAFFSTKFDDADYD    132
+                     ||||||||||||||||||||||||||||||||
+H2R5P5_PANTR     101 LGLVVTGALHLARLAKDSAAFFSTKFDDADYD    132
+
+
+#---------------------------------------
+#---------------------------------------

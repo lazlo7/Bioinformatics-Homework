@@ -1,0 +1,73 @@
+########################################
+# Program: needle
+# Rundate: Mon 15 May 2023 18:53:29
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20230515-185327-0425-23241326-p2m.asequence
+#    -bsequence emboss_needle-I20230515-185327-0425-23241326-p2m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: MEI4_HUMAN
+# 2: A0A2I3TQW9_PANTR
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 385
+# Identity:     381/385 (99.0%)
+# Similarity:   384/385 (99.7%)
+# Gaps:           0/385 ( 0.0%)
+# Score: 1944.0
+# 
+#
+#=======================================
+
+MEI4_HUMAN         1 MDVQKWYLRTSKLALALAIIRSKPADKSSREYTEHLAMLLSEEQSKWRSK     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+A0A2I3TQW9_PA      1 MDVQKWYLRTSKLALALAIIRSKPADKSSREYTEHLAMLLSEEQSKWRSK     50
+
+MEI4_HUMAN        51 VEILEAEVMQLRQKLLVSRLCSGSFKSGYVSSQLEAQEPKSSESTLTSME    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+A0A2I3TQW9_PA     51 VEILEAEVMQLRQKLLVSRLCSGSFKSGYVSSQLEAQEPKSSESTLTSME    100
+
+MEI4_HUMAN       101 DSGCDLSNEQRTESSDLSQHFVESCTPTHFPPLPLVKRPCAILQNPLSSH    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+A0A2I3TQW9_PA    101 DSGCDLSNEQRTESSDLSQHFVESCTPTHFPPLPLVKRPCAILQNPLSSH    150
+
+MEI4_HUMAN       151 MQFLQYLLELKNLTESGNLKRDLTHFEKDSSTVSDSVFQLLDGLITFYRN    200
+                     |||||||||||||||||||:||||||||||||||||||||||||||||||
+A0A2I3TQW9_PA    151 MQFLQYLLELKNLTESGNLERDLTHFEKDSSTVSDSVFQLLDGLITFYRN    200
+
+MEI4_HUMAN       201 PKLPFSRFWTEAVGTLASLISDYNLSSHILKKCSKKLEEFEKTLLHAILG    250
+                     |||||||||||||||||.||||||||||||||||||||||||||||||||
+A0A2I3TQW9_PA    201 PKLPFSRFWTEAVGTLACLISDYNLSSHILKKCSKKLEEFEKTLLHAILG    250
+
+MEI4_HUMAN       251 NNHINQFQVQHYVSQSLVTLGNCSLLRKSIISLLLSEVNGFADDLGAINQ    300
+                     ||||||||||||||||||||||||||||||||||||||||||||||||:|
+A0A2I3TQW9_PA    251 NNHINQFQVQHYVSQSLVTLGNCSLLRKSIISLLLSEVNGFADDLGAISQ    300
+
+MEI4_HUMAN       301 EQASYDVSRYENIFYLFWVLEQLLQKETEEGNTSSIGHDDQEIKKFLQKH    350
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+A0A2I3TQW9_PA    301 EQASYDVSRYENIFYLFWVLEQLLQKETEEGNTSSIGHDDQEIKKFLQKH    350
+
+MEI4_HUMAN       351 DETIFQLSDAFPLFTFYLWRVGILLSSAQIETLRK    385
+                     |||||||||||||||||||||||||||||||||:|
+A0A2I3TQW9_PA    351 DETIFQLSDAFPLFTFYLWRVGILLSSAQIETLKK    385
+
+
+#---------------------------------------
+#---------------------------------------

@@ -1,0 +1,65 @@
+########################################
+# Program: needle
+# Rundate: Mon 15 May 2023 18:56:22
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20230515-185620-0677-40404270-p1m.asequence
+#    -bsequence emboss_needle-I20230515-185620-0677-40404270-p1m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: ELOV7_HUMAN
+# 2: A0A2J8KKV3_PANTR
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 281
+# Identity:     279/281 (99.3%)
+# Similarity:   280/281 (99.6%)
+# Gaps:           0/281 ( 0.0%)
+# Score: 1526.0
+# 
+#
+#=======================================
+
+ELOV7_HUMAN        1 MAFSDLTSRTVHLYDNWIKDADPRVEDWLLMSSPLPQTILLGFYVYFVTS     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+A0A2J8KKV3_PA      1 MAFSDLTSRTVHLYDNWIKDADPRVEDWLLMSSPLPQTILLGFYVYFVTS     50
+
+ELOV7_HUMAN       51 LGPKLMENRKPFELKKAMITYNFFIVLFSVYMCYEFVMSGWGIGYSFRCD    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+A0A2J8KKV3_PA     51 LGPKLMENRKPFELKKAMITYNFFIVLFSVYMCYEFVMSGWGIGYSFRCD    100
+
+ELOV7_HUMAN      101 IVDYSRSPTALRMARTCWLYYFSKFIELLDTIFFVLRKKNSQVTFLHVFH    150
+                     |||||:||||||||.|||||||||||||||||||||||||||||||||||
+A0A2J8KKV3_PA    101 IVDYSQSPTALRMAHTCWLYYFSKFIELLDTIFFVLRKKNSQVTFLHVFH    150
+
+ELOV7_HUMAN      151 HTIMPWTWWFGVKFAAGGLGTFHALLNTAVHVVMYSYYGLSALGPAYQKY    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+A0A2J8KKV3_PA    151 HTIMPWTWWFGVKFAAGGLGTFHALLNTAVHVVMYSYYGLSALGPAYQKY    200
+
+ELOV7_HUMAN      201 LWWKKYLTSLQLVQFVIVAIHISQFFFMEDCKYQFPVFACIIMSYSFMFL    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+A0A2J8KKV3_PA    201 LWWKKYLTSLQLVQFVIVAIHISQFFFMEDCKYQFPVFACIIMSYSFMFL    250
+
+ELOV7_HUMAN      251 LLFLHFWYRAYTKGQRLPKTVKNGTCKNKDN    281
+                     |||||||||||||||||||||||||||||||
+A0A2J8KKV3_PA    251 LLFLHFWYRAYTKGQRLPKTVKNGTCKNKDN    281
+
+
+#---------------------------------------
+#---------------------------------------

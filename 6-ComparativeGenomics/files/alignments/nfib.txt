@@ -1,0 +1,85 @@
+########################################
+# Program: needle
+# Rundate: Mon 15 May 2023 18:48:37
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20230515-184827-0682-95565693-p1m.asequence
+#    -bsequence emboss_needle-I20230515-184827-0682-95565693-p1m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NFIB_HUMAN
+# 2: A0A2I3T6E9_PANTR
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 503
+# Identity:     332/503 (66.0%)
+# Similarity:   333/503 (66.2%)
+# Gaps:         162/503 (32.2%)
+# Score: 1723.5
+# 
+#
+#=======================================
+
+NFIB_HUMAN         1 MMYSPICLTQDEFHPFIEALLPHVRAIAYTWFNLQARKRKYFKKHEKRMS     50
+                     |.||    ..||||||||||||||||||||||||||||||||||||||||
+A0A2I3T6E9_PA      1 MQYS----AMDEFHPFIEALLPHVRAIAYTWFNLQARKRKYFKKHEKRMS     46
+
+NFIB_HUMAN        51 KDEERAVKDELLSEKPEIKQKWASRLLAKLRKDIRQEYREDFVLTVTGKK    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+A0A2I3T6E9_PA     47 KDEERAVKDELLSEKPEIKQKWASRLLAKLRKDIRQEYREDFVLTVTGKK     96
+
+NFIB_HUMAN       101 HPCCVLSNPDQKGKIRRIDCLRQADKVWRLDLVMVILFKGIPLESTDGER    150
+                     ||||||||||||                                      
+A0A2I3T6E9_PA     97 HPCCVLSNPDQK--------------------------------------    108
+
+NFIB_HUMAN       151 LMKSPHCTNPALCVQPHHITVSVKELDLFLAYYVQEQDSGQSGSPSHNDP    200
+                                                          ||||||||||.||
+A0A2I3T6E9_PA    109 -------------------------------------DSGQSGSPSHTDP    121
+
+NFIB_HUMAN       201 AKNPPGYLEDSFVKSGVFNVSELVRVSRTPITQGTGVNFPIGEIPSQPYY    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+A0A2I3T6E9_PA    122 AKNPPGYLEDSFVKSGVFNVSELVRVSRTPITQGTGVNFPIGEIPSQPYY    171
+
+NFIB_HUMAN       251 HDMNSGVNLQRSLSSPPSSKRPKTISIDENMEPSPTGDFYPSPSSPAAGS    300
+                     |||||||||||||||||||||||||||||||||||||||||||:||||||
+A0A2I3T6E9_PA    172 HDMNSGVNLQRSLSSPPSSKRPKTISIDENMEPSPTGDFYPSPNSPAAGS    221
+
+NFIB_HUMAN       301 RTWHERDQDMSSPTTMKKPEKPLFSSASPQDSSPRLSTFPQHHHPGIPGV    350
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+A0A2I3T6E9_PA    222 RTWHERDQDMSSPTTMKKPEKPLFSSASPQDSSPRLSTFPQHHHPGIPGV    271
+
+NFIB_HUMAN       351 AHSVISTRTPPPPSPLPFPTQAILPPAPSSYFSHPTIRYPPHLNPQDTLK    400
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+A0A2I3T6E9_PA    272 AHSVISTRTPPPPSPLPFPTQAILPPAPSSYFSHPTIRYPPHLNPQDTLK    321
+
+NFIB_HUMAN       401 NYVPSYDPSSPQTSQSWYLG------------------------------    420
+                     |||||||||||||||....|                              
+A0A2I3T6E9_PA    322 NYVPSYDPSSPQTSQPNSSGQVVGKVPGHFTPVLAPSPHPSAVRPVTLSM    371
+
+NFIB_HUMAN       421 --------------------------------------------------    420
+                                                                       
+A0A2I3T6E9_PA    372 TDTKPITTSTEGEAASPTATTYTASGTSQANRYVGLSPRDPSFLHQQQSW    421
+
+NFIB_HUMAN       421 ---    420
+                        
+A0A2I3T6E9_PA    422 YLG    424
+
+
+#---------------------------------------
+#---------------------------------------

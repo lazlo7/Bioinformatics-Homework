@@ -1,0 +1,73 @@
+########################################
+# Program: needle
+# Rundate: Mon 15 May 2023 18:55:24
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20230515-185518-0102-74514572-p1m.asequence
+#    -bsequence emboss_needle-I20230515-185518-0102-74514572-p1m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: EME2_HUMAN
+# 2: H2RHN9_PANTR
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 379
+# Identity:     373/379 (98.4%)
+# Similarity:   375/379 (98.9%)
+# Gaps:           0/379 ( 0.0%)
+# Score: 1936.0
+# 
+#
+#=======================================
+
+EME2_HUMAN         1 MARVGPGRAGVSCQGRGRGRGGSGQRRPPTWEISDSDAEDSAGSEAAARA     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+H2RHN9_PANTR       1 MARVGPGRAGVSCQGRGRGRGGSGQRRPPTWEISDSDAEDSAGSEAAARA     50
+
+EME2_HUMAN        51 RDPAGERRAAAEALRLLRPEQVLKRLAVCVDTAILEDAGADVLMEALEAL    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+H2RHN9_PANTR      51 RDPAGERRAAAEALRLLRPEQVLKRLAVCVDTAILEDAGADVLMEALEAL    100
+
+EME2_HUMAN       101 GCECRIEPQRPARSLRWTRASPDPCPRSLPPEVWAAGEQELLLLLEPEEF    150
+                     |||||||||||||||||||||||||||||||||||||||||||||||:||
+H2RHN9_PANTR     101 GCECRIEPQRPARSLRWTRASPDPCPRSLPPEVWAAGEQELLLLLEPKEF    150
+
+EME2_HUMAN       151 LQGVATLTQISGPTHWVPWISPETTARPHLAVIGLDAYLWSRQHVSRGTQ    200
+                     ||||||||||||||.|||||||||||||||||||||||||||||||||||
+H2RHN9_PANTR     151 LQGVATLTQISGPTRWVPWISPETTARPHLAVIGLDAYLWSRQHVSRGTQ    200
+
+EME2_HUMAN       201 QPESPKVAGAEVAVSWPEVEEALVLLQLWANLDVLLVASWQELSRHVCAV    250
+                     |||||||||||||||||||||||||||||||||||||||||||||||||:
+H2RHN9_PANTR     201 QPESPKVAGAEVAVSWPEVEEALVLLQLWANLDVLLVASWQELSRHVCAM    250
+
+EME2_HUMAN       251 TKALAQYPLKQYRESQAFSFCTAGRWAAGEPVARDGAGLQAAWRRQIRQF    300
+                     ||||||||||||||||||||||||||||.|||||||.|||||||||||||
+H2RHN9_PANTR     251 TKALAQYPLKQYRESQAFSFCTAGRWAASEPVARDGTGLQAAWRRQIRQF    300
+
+EME2_HUMAN       301 SRVSPAVADAVVTAFPSPRLLQQALEACSTERERMGLLADLPVPPSEGGR    350
+                     |||||||||||||||||||||||||||||||||||||||||||.||||||
+H2RHN9_PANTR     301 SRVSPAVADAVVTAFPSPRLLQQALEACSTERERMGLLADLPVLPSEGGR    350
+
+EME2_HUMAN       351 PRRVGPDLSRRICLFLTTANPDLLLDLGS    379
+                     |||||||||||||||||||||||||||||
+H2RHN9_PANTR     351 PRRVGPDLSRRICLFLTTANPDLLLDLGS    379
+
+
+#---------------------------------------
+#---------------------------------------

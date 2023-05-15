@@ -1,0 +1,125 @@
+########################################
+# Program: needle
+# Rundate: Mon 15 May 2023 18:41:47
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20230515-184145-0967-13745928-p2m.asequence
+#    -bsequence emboss_needle-I20230515-184145-0967-13745928-p2m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: HIP1_HUMAN
+# 2: A0A2I3T2B1_PANTR
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 1037
+# Identity:     983/1037 (94.8%)
+# Similarity:   986/1037 (95.1%)
+# Gaps:          51/1037 ( 4.9%)
+# Score: 4937.0
+# 
+#
+#=======================================
+
+HIP1_HUMAN         1 MDRMASSMKQVPNPLPKVLSRRGVGAGLEAAERESFERTQTVSINKAINT     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+A0A2I3T2B1_PA      1 MDRMASSMKQVPNPLPKVLSRRGVGAGLEAAERESFERTQTVSINKAINT     50
+
+HIP1_HUMAN        51 QEVAVKEKHARTCILGTHHEKGAQTFWSVVNRLPLSSNAVLCWKFCHVFH    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+A0A2I3T2B1_PA     51 QEVAVKEKHARTCILGTHHEKGAQTFWSVVNRLPLSSNAVLCWKFCHVFH    100
+
+HIP1_HUMAN       101 KLLRDGHPNVLKDSLRYRNELSDMSRMWGHLSEGYGQLCSIYLKLLRTKM    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+A0A2I3T2B1_PA    101 KLLRDGHPNVLKDSLRYRNELSDMSRMWGHLSEGYGQLCSIYLKLLRTKM    150
+
+HIP1_HUMAN       151 EYHTKNPRFPGNLQMSDRQLDEAGESDVNNFFQLTVEMFDYLECELNLFQ    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+A0A2I3T2B1_PA    151 EYHTKNPRFPGNLQMSDRQLDEAGESDVNNFFQLTVEMFDYLECELNLFQ    200
+
+HIP1_HUMAN       201 TVFNSLDMSRSVSVTAAGQCRLAPLIQVILDCSHLYDYTVKLLFKLHSCL    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+A0A2I3T2B1_PA    201 TVFNSLDMSRSVSVTAAGQCRLAPLIQVILDCSHLYDYTVKLLFKLHSCL    250
+
+HIP1_HUMAN       251 PADTLQGHRDRFMEQFTKLKDLFYRSSNLQYFKRLIQIPQLPENPPNFLR    300
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+A0A2I3T2B1_PA    251 PADTLQGHRDRFMEQFTKLKDLFYRSSNLQYFKRLIQIPQLPENPPNFLR    300
+
+HIP1_HUMAN       301 ASALSEHISPVVVIPAEASSPDSEPVLEKDDLMDMDASQQNLFDNKFDDI    350
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+A0A2I3T2B1_PA    301 ASALSEHISPVVVIPAEASSPDSEPVLEKDDLMDMDASQQNLFDNKFDDI    350
+
+HIP1_HUMAN       351 FGSSFSSDPFNFNSQNGVNKDEKDHLIERLYREISGLKAQLENMKTESQR    400
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+A0A2I3T2B1_PA    351 FGSSFSSDPFNFNSQNGVNKDEKDHLIERLYREISGLKAQLENMKTESQR    400
+
+HIP1_HUMAN       401 VVLQLKGHVSELEADLAEQQHLRQQAADDCEFLRAELDELRRQREDTEKA    450
+                     ||||||||||||||:|||||||||||||||||||||||||||||||||||
+A0A2I3T2B1_PA    401 VVLQLKGHVSELEAELAEQQHLRQQAADDCEFLRAELDELRRQREDTEKA    450
+
+HIP1_HUMAN       451 QRSLSEIERKAQANEQRYSKLKEKYSELVQNHADLLRKNAEVTKQVSMAR    500
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+A0A2I3T2B1_PA    451 QRSLSEIERKAQANEQRYSKLKEKYSELVQNHADLLRKNAEVTKQVSMAR    500
+
+HIP1_HUMAN       501 QAQVDLEREKKELEDSLERISDQGQRKTQEQLEVLESLKQELATSQRELQ    550
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+A0A2I3T2B1_PA    501 QAQVDLEREKKELEDSLERISDQGQRKTQEQLEVLESLKQELATSQRELQ    550
+
+HIP1_HUMAN       551 VLQGSLETSAQSEANWAAEFAELEKERDSLVSGAAHREEELSALRKELQD    600
+                     ||||||||||||||||||:|||||||||||||||||||||||||||||||
+A0A2I3T2B1_PA    551 VLQGSLETSAQSEANWAAQFAELEKERDSLVSGAAHREEELSALRKELQD    600
+
+HIP1_HUMAN       601 TQLKLASTEESMCQLAKDQRKMLLVGSRKAAEQVIQDALNQLEEPPLISC    650
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+A0A2I3T2B1_PA    601 TQLKLASTEESMCQLAKDQRKMLLVGSRKAAEQVIQDALNQLEEPPLISC    650
+
+HIP1_HUMAN       651 AGSADHLLSTVTSISSCIEQLEKSWSQYLACPEDISGLLHSITLLAHLTS    700
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+A0A2I3T2B1_PA    651 AGSADHLLSTVTSISSCIEQLEKSWSQYLACPEDISGLLHSITLLAHLTS    700
+
+HIP1_HUMAN       701 DAIAHGATTCLRAPPEPADSLTEACKQYGRETLAYLASLEEEGSLENADS    750
+                     ||||||||||||||||||||||||||||||||||||||||||||||||:|
+A0A2I3T2B1_PA    701 DAIAHGATTCLRAPPEPADSLTEACKQYGRETLAYLASLEEEGSLENANS    750
+
+HIP1_HUMAN       751 TAMRNCLSKIKAIGEELLPRGLDIKQEELGDLVDKEMAATSAAIETATAR    800
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+A0A2I3T2B1_PA    751 TAMRNCLSKIKAIGEELLPRGLDIKQEELGDLVDKEMAATSAAIETATAR    800
+
+HIP1_HUMAN       801 IEEMLSKSRAGDTGVKLEVNERILGCCTSLMQAIQVLIVASKDLQREIVE    850
+                     ||                                                
+A0A2I3T2B1_PA    801 IE------------------------------------------------    802
+
+HIP1_HUMAN       851 SGRGTASPKEFYAKNSRWTEGLISASKAVGWGATVMVDAADLVVQGRGKF    900
+                        |||||||||||||||||||||||||||||||||||||||||||||||
+A0A2I3T2B1_PA    803 ---GTASPKEFYAKNSRWTEGLISASKAVGWGATVMVDAADLVVQGRGKF    849
+
+HIP1_HUMAN       901 EELMVCSHEIAASTAQLVAASKVKADKDSPNLAQLQQASRGVNQATAGVV    950
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+A0A2I3T2B1_PA    850 EELMVCSHEIAASTAQLVAASKVKADKDSPNLAQLQQASRGVNQATAGVV    899
+
+HIP1_HUMAN       951 ASTISGKSQIEETDNMDFSSMTLTQIKRQEMDSQVRVLELENELQKERQK   1000
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+A0A2I3T2B1_PA    900 ASTISGKSQIEETDNMDFSSMTLTQIKRQEMDSQVRVLELENELQKERQK    949
+
+HIP1_HUMAN      1001 LGELRKKHYELAGVAEGWEEGTEASPPTLQEVVTEKE   1037
+                     |||||||||||||||||||||||||||||||||||||
+A0A2I3T2B1_PA    950 LGELRKKHYELAGVAEGWEEGTEASPPTLQEVVTEKE    986
+
+
+#---------------------------------------
+#---------------------------------------
