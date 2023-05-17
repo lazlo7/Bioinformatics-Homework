@@ -554,7 +554,7 @@ Query #9: read9 Query ID: lcl|Query_43662 Length: 100
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Stenella coeruleoalba genome assembly, chromosome: 14                                             0          99.6   99.6  97%   1e-16 81.37  89821558   OX596399.1       
+Stenella coeruleoalba genome assembly, chromosome: 14                                             9737       99.6   99.6  97%   1e-16 81.37  89821558   OX596399.1       
 Balaenoptera acutorostrata genome assembly, chromosome: 13        Balaenoptera... minke whale     9767       99.6   99.6  97%   1e-16 81.37  94052262   OX465363.1       
 Balaenoptera acutorostrata genome assembly, chromosome: 21        Balaenoptera... minke whale     9767       95.1   95.1  97%   2e-15 80.39  39996603   OX465371.1       
 Lagenorhynchus albirostris genome assembly, chromosome: 14        Lagenorhynch... white-beaked... 27610      95.1   95.1  97%   2e-15 80.39  88535205   OX459086.1       
@@ -1125,7 +1125,7 @@ Sequences producing significant alignments:
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
 Lutra lutra genome assembly, chromosome: 12                       Lutra lutra     Eurasian riv... 9657       130    130   94%   9e-26 88.89  96445735   LR738414.1       
 Meles meles genome assembly, chromosome: 12                       Meles meles     Eurasian badger 9662       122    122   94%   1e-23 86.14  96433638   OV277453.1       
-Stenella coeruleoalba genome assembly, chromosome: 14                                             0          90.6   90.6  85%   7e-14 83.53  89821558   OX596399.1       
+Stenella coeruleoalba genome assembly, chromosome: 14                                             9737       90.6   90.6  85%   7e-14 83.53  89821558   OX596399.1       
 Delphinus delphis genome assembly, chromosome: 13                 Delphinus de... saddleback d... 9728       90.6   90.6  85%   7e-14 83.53  89805933   OX465339.1       
 Hyperoodon ampullatus genome assembly, chromosome: 13             Hyperoodon a... northern bot... 48744      90.6   90.6  94%   7e-14 81.91  90643091   OX457068.1       
 Orcinus orca genome assembly, chromosome: 15                      Orcinus orca    killer whale    9733       90.6   90.6  85%   7e-14 83.53  89590773   OW443375.1       
@@ -3878,7 +3878,7 @@ Meles meles genome assembly, chromosome: 12                       Meles meles   
 Balaenoptera acutorostrata genome assembly, chromosome: 13        Balaenoptera... minke whale     9767       90.6   90.6  92%   7e-14 81.52  94052262   OX465363.1       
 Lagenorhynchus albirostris genome assembly, chromosome: 14        Lagenorhynch... white-beaked... 27610      90.6   90.6  92%   7e-14 81.52  88535205   OX459086.1       
 Hyperoodon ampullatus genome assembly, chromosome: 13             Hyperoodon a... northern bot... 48744      86.9   86.9  95%   9e-13 80.00  90643091   OX457068.1       
-Stenella coeruleoalba genome assembly, chromosome: 14                                             0          81.5   81.5  92%   4e-11 79.35  89821558   OX596399.1       
+Stenella coeruleoalba genome assembly, chromosome: 14                                             9737       81.5   81.5  92%   4e-11 79.35  89821558   OX596399.1       
 Delphinus delphis genome assembly, chromosome: 13                 Delphinus de... saddleback d... 9728       81.5   81.5  92%   4e-11 79.35  89805933   OX465339.1       
 Orcinus orca genome assembly, chromosome: 15                      Orcinus orca    killer whale    9733       81.5   81.5  92%   4e-11 79.35  89590773   OW443375.1       
 
@@ -4066,7 +4066,7 @@ Sequences producing significant alignments:
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
 Meles meles genome assembly, chromosome: 12                       Meles meles     Eurasian badger 9662       106    106   97%   1e-18 84.85  96433638   OV277453.1       
 Lutra lutra genome assembly, chromosome: 12                       Lutra lutra     Eurasian riv... 9657       99.6   99.6  98%   1e-16 83.00  96445735   LR738414.1       
-Stenella coeruleoalba genome assembly, chromosome: 14                                             0          86.9   86.9  96%   9e-13 80.41  89821558   OX596399.1       
+Stenella coeruleoalba genome assembly, chromosome: 14                                             9737       86.9   86.9  96%   9e-13 80.41  89821558   OX596399.1       
 Balaenoptera acutorostrata genome assembly, chromosome: 13        Balaenoptera... minke whale     9767       86.9   86.9  96%   9e-13 80.41  94052262   OX465363.1       
 Delphinus delphis genome assembly, chromosome: 13                 Delphinus de... saddleback d... 9728       86.9   86.9  96%   9e-13 80.41  89805933   OX465339.1       
 Lagenorhynchus albirostris genome assembly, chromosome: 14        Lagenorhynch... white-beaked... 27610      86.9   86.9  96%   9e-13 80.41  88535205   OX459086.1       
@@ -4246,7 +4246,7 @@ Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
 Balaenoptera acutorostrata genome assembly, chromosome: 14        Balaenoptera... minke whale     9767       99.6   99.6  87%   1e-16 85.06  93815738   OX465364.1       
-Stenella coeruleoalba genome assembly, chromosome: 12                                             0          95.1   95.1  87%   2e-15 83.91  90572715   OX596397.1       
+Stenella coeruleoalba genome assembly, chromosome: 12                                             9737       95.1   95.1  87%   2e-15 83.91  90572715   OX596397.1       
 Delphinus delphis genome assembly, chromosome: 14                 Delphinus de... saddleback d... 9728       95.1   95.1  87%   2e-15 83.91  88847605   OX465340.1       
 Lagenorhynchus albirostris genome assembly, chromosome: 12        Lagenorhynch... white-beaked... 27610      95.1   95.1  87%   2e-15 83.91  93928780   OX459084.1       
 Hyperoodon ampullatus genome assembly, chromosome: 12             Hyperoodon a... northern bot... 48744      95.1   95.1  87%   2e-15 83.91  90645867   OX457067.1       
@@ -4846,7 +4846,7 @@ Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
 Canis lupus genome assembly, chromosome: 3                        Canis lupus     gray wolf       9612       181    181   100%  2e-41 100.00 93479712   HG994384.1       
-Rangifer tarandus platyrhyncus genome assembly, chromosome: 5                                     0          113    113   80%   7e-21 91.25  97989365   OX596089.1       
+Rangifer tarandus platyrhyncus genome assembly, chromosome: 5                                     228257     113    113   80%   7e-21 91.25  97989365   OX596089.1       
 Bos mutus isolate yakQH1 chromosome 10                            Bos mutus       wild yak        72004      109    109   80%   8e-20 90.00  33842169   CP027078.1       
 Homo sapiens chromosome 5 clone RP11-124B7, complete sequence     Homo sapiens    human           9606       103    103   100%  1e-17 83.17  158406     AC114297.2       
 Cervus elaphus genome assembly, chromosome: 33                    Cervus elaphus  red deer        9860       91.5   91.5  65%   2e-14 90.77  79323360   OU343110.1       
@@ -5596,7 +5596,7 @@ Cervus elaphus genome assembly, chromosome: 7                     Cervus elaphus
 Heterocephalus glaber genome assembly, chromosome: 9              Heterocephal... naked mole-rat  10181      84.2   84.2  95%   3e-12 81.44  97794639   OX090949.1       
 Heterocephalus glaber genome assembly, chromosome: 9              Heterocephal... naked mole-rat  10181      84.2   84.2  95%   3e-12 81.44  97635687   OX090917.1       
 Bos mutus isolate yakQH1 chromosome 23                            Bos mutus       wild yak        72004      80.6   80.6  100%  4e-11 78.22  45444811   CP027091.1       
-Rangifer tarandus platyrhyncus genome assembly, chromosome: 27                                    0          80.6   80.6  100%  4e-11 78.22  53431312   OX596111.1       
+Rangifer tarandus platyrhyncus genome assembly, chromosome: 27                                    228257     80.6   80.6  100%  4e-11 78.22  53431312   OX596111.1       
 Rangifer tarandus platyrhyncus genome assembly, chromosome: 28    Rangifer tar... NA              228257     80.6   80.6  100%  4e-11 78.22  54324357   OX459964.2       
 Ovis canadensis canadensis isolate 43U chromosome 20 sequence     Ovis canaden... NA              112262     80.6   80.6  100%  4e-11 78.22  51240674   CP011905.1       
 Bos taurus strain mammals genome assembly, chromosome: 23         Bos taurus      cattle          9913       80.6   80.6  100%  4e-11 78.22  53841443   OX344712.1       
@@ -6045,7 +6045,7 @@ Sequences producing significant alignments:
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
 Homo sapiens RAS guanyl releasing protein 3 (RASGRP3),...         Homo sapiens    human           9606       181    181   100%  2e-41 100.00 135384     NG_053077.1      
 Homo sapiens BAC clone RP11-322P19 from 2, complete sequence      Homo sapiens    human           9606       181    181   100%  2e-41 100.00 193410     AC020594.6       
-Stenella coeruleoalba genome assembly, chromosome: 13                                             0          90.6   90.6  84%   7e-14 84.52  90160398   OX596398.1       
+Stenella coeruleoalba genome assembly, chromosome: 13                                             9737       90.6   90.6  84%   7e-14 84.52  90160398   OX596398.1       
 Delphinus delphis genome assembly, chromosome: 12                 Delphinus de... saddleback d... 9728       90.6   90.6  84%   7e-14 84.52  89892549   OX465338.1       
 Lagenorhynchus albirostris genome assembly, chromosome: 13        Lagenorhynch... white-beaked... 27610      90.6   90.6  84%   7e-14 84.52  89362096   OX459085.1       
 Hyperoodon ampullatus genome assembly, chromosome: 15             Hyperoodon a... northern bot... 48744      90.6   90.6  84%   7e-14 84.52  88922614   OX457070.1       
@@ -21176,7 +21176,7 @@ Onychomys leucogaster genome assembly, chromosome: 18             Onychomys le..
 Onychomys torridus genome assembly, chromosome: 18                Onychomys to... southern gra... 38674      147    147   96%   3e-31 93.75  66632817   LR877205.1       
 Acomys russatus genome assembly, chromosome: 11                   Acomys russatus golden spiny... 60746      142    142   96%   1e-29 92.71  62768634   LR877222.1       
 Gorilla gorilla chromosome 7 clone CH277-28K13, complete sequence Gorilla gorilla western gorilla 9593       139    139   94%   2e-28 92.55  103093     AC270543.1       
-Rangifer tarandus platyrhyncus genome assembly, chromosome: 22                                    0          139    139   96%   2e-28 91.84  62387826   OX596106.1       
+Rangifer tarandus platyrhyncus genome assembly, chromosome: 22                                    228257     139    139   96%   2e-28 91.84  62387826   OX596106.1       
 Rangifer tarandus platyrhyncus genome assembly, chromosome: 22    Rangifer tar... NA              228257     139    139   96%   2e-28 91.84  62337200   OX459958.2       
 Ovis canadensis canadensis isolate 43U chromosome 9 sequence      Ovis canaden... NA              112262     139    139   96%   2e-28 91.84  94836416   CP011894.1       
 Homo sapiens chromosome 6 stromal membrane-associated protein...  Homo sapiens    human           9606       138    138   91%   2e-28 93.41  3745       AH011147.2       
@@ -21188,7 +21188,7 @@ Canis lupus familiaris breed Labrador retriever chromosome 12a    Canis lupus ..
 Canis lupus familiaris breed Labrador retriever chromosome 12b    Canis lupus ... dog             9615       134    134   96%   2e-27 90.82  72555136   CP050616.1       
 Canis lupus genome assembly, chromosome: 12                       Canis lupus     gray wolf       9612       134    134   96%   2e-27 90.82  73732241   HG994392.1       
 Cervus elaphus genome assembly, chromosome: 28                    Cervus elaphus  red deer        9860       133    133   96%   7e-27 90.62  64362491   OU343105.1       
-Stenella coeruleoalba genome assembly, chromosome: 12                                             0          127    127   80%   3e-25 95.00  90572715   OX596397.1       
+Stenella coeruleoalba genome assembly, chromosome: 12                                             9737       127    127   80%   3e-25 95.00  90572715   OX596397.1       
 Balaenoptera acutorostrata genome assembly, chromosome: 14        Balaenoptera... minke whale     9767       127    127   80%   3e-25 95.00  93815738   OX465364.1       
 Delphinus delphis genome assembly, chromosome: 14                 Delphinus de... saddleback d... 9728       127    127   80%   3e-25 95.00  88847605   OX465340.1       
 Lagenorhynchus albirostris genome assembly, chromosome: 12        Lagenorhynch... white-beaked... 27610      127    127   80%   3e-25 95.00  93928780   OX459084.1       
@@ -25030,7 +25030,7 @@ PREDICTED: Macaca nemestrina LDL receptor related protein 1B...   Macaca nemes..
 PREDICTED: Macaca nemestrina LDL receptor related protein 1B...   Macaca nemes... pig-tailed m... 9545       126    126   92%   1e-24 90.22  16415      XM_011759820.2   
 PREDICTED: Macaca nemestrina LDL receptor related protein 1B...   Macaca nemes... pig-tailed m... 9545       126    126   92%   1e-24 90.22  16529      XM_011759819.2   
 PREDICTED: Capra hircus LDL receptor related protein 1B (LRP1B... Capra hircus    goat            9925       126    126   92%   1e-24 90.22  15914      XM_018062463.1   
-Rangifer tarandus platyrhyncus genome assembly, chromosome: 12                                    0          126    126   97%   1e-24 88.66  77583619   OX596096.1       
+Rangifer tarandus platyrhyncus genome assembly, chromosome: 12                                    228257     126    126   97%   1e-24 88.66  77583619   OX596096.1       
 PREDICTED: Moschus berezovskii LDL receptor related protein 1B... Moschus bere... Chinese fore... 68408      126    126   92%   1e-24 90.22  13986      XM_055398100.1   
 Rangifer tarandus platyrhyncus genome assembly, chromosome: 13    Rangifer tar... NA              228257     126    126   97%   1e-24 88.66  77928580   OX459949.2       
 PREDICTED: Homo sapiens LDL receptor related protein 1B (LRP1B... Homo sapiens    human           9606       126    126   92%   1e-24 90.22  12068      XM_054342573.1   
