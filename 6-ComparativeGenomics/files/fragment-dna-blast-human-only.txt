@@ -1,0 +1,4392 @@
+RID: 6D02M6J5013	
+Job Title:100 sequences (chr=4|start=166802003|end=166802102|length=100...				
+Program: BLASTN 
+Database: nt Nucleotide collection (nt)
+Query #1: chr=4|start=166802003|end=166802102|length=100 Query ID: lcl|Query_62996 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       185    185   100%  8e-45 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       185    185   100%  8e-45 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437489 to 437588
+
+Score:185 bits(100), Expect:8e-45, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATATCCATCACTGTCTTGAGGTAGACAATACA  100
+               ||||||||||||||||||||||||||||||||||||||||
+Sbjct  437528  TAAAAAATATATCCATCACTGTCTTGAGGTAGACAATACA  437489
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59347 to 59446
+
+Score:185 bits(100), Expect:8e-45, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATATCCATCACTGTCTTGAGGTAGACAATACA  100
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  59386  TAAAAAATATATCCATCACTGTCTTGAGGTAGACAATACA  59347
+
+
+
+
+
+Query #2: chr=4|start=166802003|end=166802101|length=99 Query ID: lcl|Query_62997 Length: 99
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       183    183   100%  3e-44 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       183    183   100%  3e-44 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437490 to 437588
+
+Score:183 bits(99), Expect:3e-44, 
+Identities:99/99(100%),  Gaps:0/99(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATATCCATCACTGTCTTGAGGTAGACAATAC  99
+               |||||||||||||||||||||||||||||||||||||||
+Sbjct  437528  TAAAAAATATATCCATCACTGTCTTGAGGTAGACAATAC  437490
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59348 to 59446
+
+Score:183 bits(99), Expect:3e-44, 
+Identities:99/99(100%),  Gaps:0/99(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATATCCATCACTGTCTTGAGGTAGACAATAC  99
+              |||||||||||||||||||||||||||||||||||||||
+Sbjct  59386  TAAAAAATATATCCATCACTGTCTTGAGGTAGACAATAC  59348
+
+
+
+
+
+Query #3: chr=4|start=166802003|end=166802100|length=98 Query ID: lcl|Query_62998 Length: 98
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       182    182   100%  1e-43 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       182    182   100%  1e-43 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437491 to 437588
+
+Score:182 bits(98), Expect:1e-43, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATATCCATCACTGTCTTGAGGTAGACAATA  98
+               ||||||||||||||||||||||||||||||||||||||
+Sbjct  437528  TAAAAAATATATCCATCACTGTCTTGAGGTAGACAATA  437491
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59349 to 59446
+
+Score:182 bits(98), Expect:1e-43, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATATCCATCACTGTCTTGAGGTAGACAATA  98
+              ||||||||||||||||||||||||||||||||||||||
+Sbjct  59386  TAAAAAATATATCCATCACTGTCTTGAGGTAGACAATA  59349
+
+
+
+
+
+Query #4: chr=4|start=166802003|end=166802099|length=97 Query ID: lcl|Query_62999 Length: 97
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       180    180   100%  4e-43 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       180    180   100%  4e-43 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437492 to 437588
+
+Score:180 bits(97), Expect:4e-43, 
+Identities:97/97(100%),  Gaps:0/97(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATATCCATCACTGTCTTGAGGTAGACAAT  97
+               |||||||||||||||||||||||||||||||||||||
+Sbjct  437528  TAAAAAATATATCCATCACTGTCTTGAGGTAGACAAT  437492
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59350 to 59446
+
+Score:180 bits(97), Expect:4e-43, 
+Identities:97/97(100%),  Gaps:0/97(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATATCCATCACTGTCTTGAGGTAGACAAT  97
+              |||||||||||||||||||||||||||||||||||||
+Sbjct  59386  TAAAAAATATATCCATCACTGTCTTGAGGTAGACAAT  59350
+
+
+
+
+
+Query #5: chr=4|start=166802003|end=166802098|length=96 Query ID: lcl|Query_63000 Length: 96
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       178    178   100%  1e-42 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       178    178   100%  1e-42 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437493 to 437588
+
+Score:178 bits(96), Expect:1e-42, 
+Identities:96/96(100%),  Gaps:0/96(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATATCCATCACTGTCTTGAGGTAGACAA  96
+               ||||||||||||||||||||||||||||||||||||
+Sbjct  437528  TAAAAAATATATCCATCACTGTCTTGAGGTAGACAA  437493
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59351 to 59446
+
+Score:178 bits(96), Expect:1e-42, 
+Identities:96/96(100%),  Gaps:0/96(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATATCCATCACTGTCTTGAGGTAGACAA  96
+              ||||||||||||||||||||||||||||||||||||
+Sbjct  59386  TAAAAAATATATCCATCACTGTCTTGAGGTAGACAA  59351
+
+
+
+
+
+Query #6: chr=4|start=166802003|end=166802097|length=95 Query ID: lcl|Query_63001 Length: 95
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       176    176   100%  5e-42 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       176    176   100%  5e-42 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437494 to 437588
+
+Score:176 bits(95), Expect:5e-42, 
+Identities:95/95(100%),  Gaps:0/95(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATATCCATCACTGTCTTGAGGTAGACA  95
+               |||||||||||||||||||||||||||||||||||
+Sbjct  437528  TAAAAAATATATCCATCACTGTCTTGAGGTAGACA  437494
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59352 to 59446
+
+Score:176 bits(95), Expect:5e-42, 
+Identities:95/95(100%),  Gaps:0/95(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATATCCATCACTGTCTTGAGGTAGACA  95
+              |||||||||||||||||||||||||||||||||||
+Sbjct  59386  TAAAAAATATATCCATCACTGTCTTGAGGTAGACA  59352
+
+
+
+
+
+Query #7: chr=4|start=166802003|end=166802096|length=94 Query ID: lcl|Query_63002 Length: 94
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       174    174   100%  2e-41 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       174    174   100%  2e-41 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437495 to 437588
+
+Score:174 bits(94), Expect:2e-41, 
+Identities:94/94(100%),  Gaps:0/94(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATATCCATCACTGTCTTGAGGTAGAC  94
+               ||||||||||||||||||||||||||||||||||
+Sbjct  437528  TAAAAAATATATCCATCACTGTCTTGAGGTAGAC  437495
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59353 to 59446
+
+Score:174 bits(94), Expect:2e-41, 
+Identities:94/94(100%),  Gaps:0/94(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATATCCATCACTGTCTTGAGGTAGAC  94
+              ||||||||||||||||||||||||||||||||||
+Sbjct  59386  TAAAAAATATATCCATCACTGTCTTGAGGTAGAC  59353
+
+
+
+
+
+Query #8: chr=4|start=166802003|end=166802095|length=93 Query ID: lcl|Query_63003 Length: 93
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       172    172   100%  6e-41 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       172    172   100%  6e-41 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437496 to 437588
+
+Score:172 bits(93), Expect:6e-41, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATATCCATCACTGTCTTGAGGTAGA  93
+               |||||||||||||||||||||||||||||||||
+Sbjct  437528  TAAAAAATATATCCATCACTGTCTTGAGGTAGA  437496
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59354 to 59446
+
+Score:172 bits(93), Expect:6e-41, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATATCCATCACTGTCTTGAGGTAGA  93
+              |||||||||||||||||||||||||||||||||
+Sbjct  59386  TAAAAAATATATCCATCACTGTCTTGAGGTAGA  59354
+
+
+
+
+
+Query #9: chr=4|start=166802003|end=166802094|length=92 Query ID: lcl|Query_63004 Length: 92
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       171    171   100%  2e-40 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       171    171   100%  2e-40 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437497 to 437588
+
+Score:171 bits(92), Expect:2e-40, 
+Identities:92/92(100%),  Gaps:0/92(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATATCCATCACTGTCTTGAGGTAG  92
+               ||||||||||||||||||||||||||||||||
+Sbjct  437528  TAAAAAATATATCCATCACTGTCTTGAGGTAG  437497
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59355 to 59446
+
+Score:171 bits(92), Expect:2e-40, 
+Identities:92/92(100%),  Gaps:0/92(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATATCCATCACTGTCTTGAGGTAG  92
+              ||||||||||||||||||||||||||||||||
+Sbjct  59386  TAAAAAATATATCCATCACTGTCTTGAGGTAG  59355
+
+
+
+
+
+Query #10: chr=4|start=166802003|end=166802093|length=91 Query ID: lcl|Query_63005 Length: 91
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       169    169   100%  7e-40 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       169    169   100%  7e-40 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437498 to 437588
+
+Score:169 bits(91), Expect:7e-40, 
+Identities:91/91(100%),  Gaps:0/91(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATATCCATCACTGTCTTGAGGTA  91
+               |||||||||||||||||||||||||||||||
+Sbjct  437528  TAAAAAATATATCCATCACTGTCTTGAGGTA  437498
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59356 to 59446
+
+Score:169 bits(91), Expect:7e-40, 
+Identities:91/91(100%),  Gaps:0/91(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATATCCATCACTGTCTTGAGGTA  91
+              |||||||||||||||||||||||||||||||
+Sbjct  59386  TAAAAAATATATCCATCACTGTCTTGAGGTA  59356
+
+
+
+
+
+Query #11: chr=4|start=166802003|end=166802092|length=90 Query ID: lcl|Query_63006 Length: 90
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       167    167   100%  3e-39 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       167    167   100%  3e-39 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437499 to 437588
+
+Score:167 bits(90), Expect:3e-39, 
+Identities:90/90(100%),  Gaps:0/90(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATATCCATCACTGTCTTGAGGT  90
+               ||||||||||||||||||||||||||||||
+Sbjct  437528  TAAAAAATATATCCATCACTGTCTTGAGGT  437499
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59357 to 59446
+
+Score:167 bits(90), Expect:3e-39, 
+Identities:90/90(100%),  Gaps:0/90(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATATCCATCACTGTCTTGAGGT  90
+              ||||||||||||||||||||||||||||||
+Sbjct  59386  TAAAAAATATATCCATCACTGTCTTGAGGT  59357
+
+
+
+
+
+Query #12: chr=4|start=166802003|end=166802091|length=89 Query ID: lcl|Query_63007 Length: 89
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       165    165   100%  9e-39 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       165    165   100%  9e-39 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437500 to 437588
+
+Score:165 bits(89), Expect:9e-39, 
+Identities:89/89(100%),  Gaps:0/89(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATATCCATCACTGTCTTGAGG  89
+               |||||||||||||||||||||||||||||
+Sbjct  437528  TAAAAAATATATCCATCACTGTCTTGAGG  437500
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59358 to 59446
+
+Score:165 bits(89), Expect:9e-39, 
+Identities:89/89(100%),  Gaps:0/89(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATATCCATCACTGTCTTGAGG  89
+              |||||||||||||||||||||||||||||
+Sbjct  59386  TAAAAAATATATCCATCACTGTCTTGAGG  59358
+
+
+
+
+
+Query #13: chr=4|start=166802003|end=166802090|length=88 Query ID: lcl|Query_63008 Length: 88
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       163    163   100%  3e-38 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       163    163   100%  3e-38 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437501 to 437588
+
+Score:163 bits(88), Expect:3e-38, 
+Identities:88/88(100%),  Gaps:0/88(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATATCCATCACTGTCTTGAG  88
+               ||||||||||||||||||||||||||||
+Sbjct  437528  TAAAAAATATATCCATCACTGTCTTGAG  437501
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59359 to 59446
+
+Score:163 bits(88), Expect:3e-38, 
+Identities:88/88(100%),  Gaps:0/88(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATATCCATCACTGTCTTGAG  88
+              ||||||||||||||||||||||||||||
+Sbjct  59386  TAAAAAATATATCCATCACTGTCTTGAG  59359
+
+
+
+
+
+Query #14: chr=4|start=166802003|end=166802089|length=87 Query ID: lcl|Query_63009 Length: 87
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       161    161   100%  1e-37 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       161    161   100%  1e-37 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437502 to 437588
+
+Score:161 bits(87), Expect:1e-37, 
+Identities:87/87(100%),  Gaps:0/87(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATATCCATCACTGTCTTGA  87
+               |||||||||||||||||||||||||||
+Sbjct  437528  TAAAAAATATATCCATCACTGTCTTGA  437502
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59360 to 59446
+
+Score:161 bits(87), Expect:1e-37, 
+Identities:87/87(100%),  Gaps:0/87(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATATCCATCACTGTCTTGA  87
+              |||||||||||||||||||||||||||
+Sbjct  59386  TAAAAAATATATCCATCACTGTCTTGA  59360
+
+
+
+
+
+Query #15: chr=4|start=166802003|end=166802088|length=86 Query ID: lcl|Query_63010 Length: 86
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       159    159   100%  4e-37 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       159    159   100%  4e-37 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437503 to 437588
+
+Score:159 bits(86), Expect:4e-37, 
+Identities:86/86(100%),  Gaps:0/86(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATATCCATCACTGTCTTG  86
+               ||||||||||||||||||||||||||
+Sbjct  437528  TAAAAAATATATCCATCACTGTCTTG  437503
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59361 to 59446
+
+Score:159 bits(86), Expect:4e-37, 
+Identities:86/86(100%),  Gaps:0/86(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATATCCATCACTGTCTTG  86
+              ||||||||||||||||||||||||||
+Sbjct  59386  TAAAAAATATATCCATCACTGTCTTG  59361
+
+
+
+
+
+Query #16: chr=4|start=166802003|end=166802087|length=85 Query ID: lcl|Query_63011 Length: 85
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       158    158   100%  1e-36 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       158    158   100%  1e-36 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437504 to 437588
+
+Score:158 bits(85), Expect:1e-36, 
+Identities:85/85(100%),  Gaps:0/85(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATATCCATCACTGTCTT  85
+               |||||||||||||||||||||||||
+Sbjct  437528  TAAAAAATATATCCATCACTGTCTT  437504
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59362 to 59446
+
+Score:158 bits(85), Expect:1e-36, 
+Identities:85/85(100%),  Gaps:0/85(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATATCCATCACTGTCTT  85
+              |||||||||||||||||||||||||
+Sbjct  59386  TAAAAAATATATCCATCACTGTCTT  59362
+
+
+
+
+
+Query #17: chr=4|start=166802003|end=166802086|length=84 Query ID: lcl|Query_63012 Length: 84
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       156    156   100%  5e-36 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       156    156   100%  5e-36 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437505 to 437588
+
+Score:156 bits(84), Expect:5e-36, 
+Identities:84/84(100%),  Gaps:0/84(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATATCCATCACTGTCT  84
+               ||||||||||||||||||||||||
+Sbjct  437528  TAAAAAATATATCCATCACTGTCT  437505
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59363 to 59446
+
+Score:156 bits(84), Expect:5e-36, 
+Identities:84/84(100%),  Gaps:0/84(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATATCCATCACTGTCT  84
+              ||||||||||||||||||||||||
+Sbjct  59386  TAAAAAATATATCCATCACTGTCT  59363
+
+
+
+
+
+Query #18: chr=4|start=166802003|end=166802085|length=83 Query ID: lcl|Query_63013 Length: 83
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       154    154   100%  2e-35 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       154    154   100%  2e-35 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437506 to 437588
+
+Score:154 bits(83), Expect:2e-35, 
+Identities:83/83(100%),  Gaps:0/83(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATATCCATCACTGTC  83
+               |||||||||||||||||||||||
+Sbjct  437528  TAAAAAATATATCCATCACTGTC  437506
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59364 to 59446
+
+Score:154 bits(83), Expect:2e-35, 
+Identities:83/83(100%),  Gaps:0/83(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATATCCATCACTGTC  83
+              |||||||||||||||||||||||
+Sbjct  59386  TAAAAAATATATCCATCACTGTC  59364
+
+
+
+
+
+Query #19: chr=4|start=166802003|end=166802084|length=82 Query ID: lcl|Query_63014 Length: 82
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       152    152   100%  6e-35 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       152    152   100%  6e-35 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437507 to 437588
+
+Score:152 bits(82), Expect:6e-35, 
+Identities:82/82(100%),  Gaps:0/82(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATATCCATCACTGT  82
+               ||||||||||||||||||||||
+Sbjct  437528  TAAAAAATATATCCATCACTGT  437507
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59365 to 59446
+
+Score:152 bits(82), Expect:6e-35, 
+Identities:82/82(100%),  Gaps:0/82(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATATCCATCACTGT  82
+              ||||||||||||||||||||||
+Sbjct  59386  TAAAAAATATATCCATCACTGT  59365
+
+
+
+
+
+Query #20: chr=4|start=166802003|end=166802083|length=81 Query ID: lcl|Query_63015 Length: 81
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       150    150   100%  2e-34 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       150    150   100%  2e-34 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437508 to 437588
+
+Score:150 bits(81), Expect:2e-34, 
+Identities:81/81(100%),  Gaps:0/81(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATATCCATCACTG  81
+               |||||||||||||||||||||
+Sbjct  437528  TAAAAAATATATCCATCACTG  437508
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59366 to 59446
+
+Score:150 bits(81), Expect:2e-34, 
+Identities:81/81(100%),  Gaps:0/81(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATATCCATCACTG  81
+              |||||||||||||||||||||
+Sbjct  59386  TAAAAAATATATCCATCACTG  59366
+
+
+
+
+
+Query #21: chr=4|start=166802003|end=166802082|length=80 Query ID: lcl|Query_63016 Length: 80
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       148    148   100%  8e-34 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       148    148   100%  8e-34 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437509 to 437588
+
+Score:148 bits(80), Expect:8e-34, 
+Identities:80/80(100%),  Gaps:0/80(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATATCCATCACT  80
+               ||||||||||||||||||||
+Sbjct  437528  TAAAAAATATATCCATCACT  437509
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59367 to 59446
+
+Score:148 bits(80), Expect:8e-34, 
+Identities:80/80(100%),  Gaps:0/80(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATATCCATCACT  80
+              ||||||||||||||||||||
+Sbjct  59386  TAAAAAATATATCCATCACT  59367
+
+
+
+
+
+Query #22: chr=4|start=166802003|end=166802081|length=79 Query ID: lcl|Query_63017 Length: 79
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       147    147   100%  3e-33 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       147    147   100%  3e-33 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437510 to 437588
+
+Score:147 bits(79), Expect:3e-33, 
+Identities:79/79(100%),  Gaps:0/79(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATATCCATCAC  79
+               |||||||||||||||||||
+Sbjct  437528  TAAAAAATATATCCATCAC  437510
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59368 to 59446
+
+Score:147 bits(79), Expect:3e-33, 
+Identities:79/79(100%),  Gaps:0/79(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATATCCATCAC  79
+              |||||||||||||||||||
+Sbjct  59386  TAAAAAATATATCCATCAC  59368
+
+
+
+
+
+Query #23: chr=4|start=166802003|end=166802080|length=78 Query ID: lcl|Query_63018 Length: 78
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       145    145   100%  1e-32 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       145    145   100%  1e-32 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437511 to 437588
+
+Score:145 bits(78), Expect:1e-32, 
+Identities:78/78(100%),  Gaps:0/78(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATATCCATCA  78
+               ||||||||||||||||||
+Sbjct  437528  TAAAAAATATATCCATCA  437511
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59369 to 59446
+
+Score:145 bits(78), Expect:1e-32, 
+Identities:78/78(100%),  Gaps:0/78(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATATCCATCA  78
+              ||||||||||||||||||
+Sbjct  59386  TAAAAAATATATCCATCA  59369
+
+
+
+
+
+Query #24: chr=4|start=166802003|end=166802079|length=77 Query ID: lcl|Query_63019 Length: 77
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       143    143   100%  3e-32 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       143    143   100%  3e-32 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437512 to 437588
+
+Score:143 bits(77), Expect:3e-32, 
+Identities:77/77(100%),  Gaps:0/77(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATATCCATC  77
+               |||||||||||||||||
+Sbjct  437528  TAAAAAATATATCCATC  437512
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59370 to 59446
+
+Score:143 bits(77), Expect:3e-32, 
+Identities:77/77(100%),  Gaps:0/77(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATATCCATC  77
+              |||||||||||||||||
+Sbjct  59386  TAAAAAATATATCCATC  59370
+
+
+
+
+
+Query #25: chr=4|start=166802003|end=166802078|length=76 Query ID: lcl|Query_63020 Length: 76
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       141    141   100%  1e-31 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       141    141   100%  1e-31 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437513 to 437588
+
+Score:141 bits(76), Expect:1e-31, 
+Identities:76/76(100%),  Gaps:0/76(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATATCCAT  76
+               ||||||||||||||||
+Sbjct  437528  TAAAAAATATATCCAT  437513
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59371 to 59446
+
+Score:141 bits(76), Expect:1e-31, 
+Identities:76/76(100%),  Gaps:0/76(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATATCCAT  76
+              ||||||||||||||||
+Sbjct  59386  TAAAAAATATATCCAT  59371
+
+
+
+
+
+Query #26: chr=4|start=166802003|end=166802077|length=75 Query ID: lcl|Query_63021 Length: 75
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       139    139   100%  4e-31 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       139    139   100%  4e-31 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437514 to 437588
+
+Score:139 bits(75), Expect:4e-31, 
+Identities:75/75(100%),  Gaps:0/75(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATATCCA  75
+               |||||||||||||||
+Sbjct  437528  TAAAAAATATATCCA  437514
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59372 to 59446
+
+Score:139 bits(75), Expect:4e-31, 
+Identities:75/75(100%),  Gaps:0/75(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATATCCA  75
+              |||||||||||||||
+Sbjct  59386  TAAAAAATATATCCA  59372
+
+
+
+
+
+Query #27: chr=4|start=166802003|end=166802076|length=74 Query ID: lcl|Query_63022 Length: 74
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       137    137   100%  1e-30 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       137    137   100%  1e-30 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437515 to 437588
+
+Score:137 bits(74), Expect:1e-30, 
+Identities:74/74(100%),  Gaps:0/74(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATATCC  74
+               ||||||||||||||
+Sbjct  437528  TAAAAAATATATCC  437515
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59373 to 59446
+
+Score:137 bits(74), Expect:1e-30, 
+Identities:74/74(100%),  Gaps:0/74(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATATCC  74
+              ||||||||||||||
+Sbjct  59386  TAAAAAATATATCC  59373
+
+
+
+
+
+Query #28: chr=4|start=166802003|end=166802075|length=73 Query ID: lcl|Query_63023 Length: 73
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       135    135   100%  5e-30 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       135    135   100%  5e-30 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437516 to 437588
+
+Score:135 bits(73), Expect:5e-30, 
+Identities:73/73(100%),  Gaps:0/73(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATATC  73
+               |||||||||||||
+Sbjct  437528  TAAAAAATATATC  437516
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59374 to 59446
+
+Score:135 bits(73), Expect:5e-30, 
+Identities:73/73(100%),  Gaps:0/73(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATATC  73
+              |||||||||||||
+Sbjct  59386  TAAAAAATATATC  59374
+
+
+
+
+
+Query #29: chr=4|start=166802003|end=166802074|length=72 Query ID: lcl|Query_63024 Length: 72
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       134    134   100%  2e-29 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       134    134   100%  2e-29 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437517 to 437588
+
+Score:134 bits(72), Expect:2e-29, 
+Identities:72/72(100%),  Gaps:0/72(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATAT  72
+               ||||||||||||
+Sbjct  437528  TAAAAAATATAT  437517
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59375 to 59446
+
+Score:134 bits(72), Expect:2e-29, 
+Identities:72/72(100%),  Gaps:0/72(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATAT  72
+              ||||||||||||
+Sbjct  59386  TAAAAAATATAT  59375
+
+
+
+
+
+Query #30: chr=4|start=166802003|end=166802073|length=71 Query ID: lcl|Query_63025 Length: 71
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       132    132   100%  7e-29 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       132    132   100%  7e-29 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437518 to 437588
+
+Score:132 bits(71), Expect:7e-29, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTATA  71
+               |||||||||||
+Sbjct  437528  TAAAAAATATA  437518
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59376 to 59446
+
+Score:132 bits(71), Expect:7e-29, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTATA  71
+              |||||||||||
+Sbjct  59386  TAAAAAATATA  59376
+
+
+
+
+
+Query #31: chr=4|start=166802003|end=166802072|length=70 Query ID: lcl|Query_63026 Length: 70
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       130    130   100%  2e-28 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       130    130   100%  2e-28 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437519 to 437588
+
+Score:130 bits(70), Expect:2e-28, 
+Identities:70/70(100%),  Gaps:0/70(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTAT  70
+               ||||||||||
+Sbjct  437528  TAAAAAATAT  437519
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59377 to 59446
+
+Score:130 bits(70), Expect:2e-28, 
+Identities:70/70(100%),  Gaps:0/70(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTAT  70
+              ||||||||||
+Sbjct  59386  TAAAAAATAT  59377
+
+
+
+
+
+Query #32: chr=4|start=166802003|end=166802071|length=69 Query ID: lcl|Query_63027 Length: 69
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       128    128   100%  8e-28 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       128    128   100%  8e-28 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437520 to 437588
+
+Score:128 bits(69), Expect:8e-28, 
+Identities:69/69(100%),  Gaps:0/69(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaTA  69
+               |||||||||
+Sbjct  437528  TAAAAAATA  437520
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59378 to 59446
+
+Score:128 bits(69), Expect:8e-28, 
+Identities:69/69(100%),  Gaps:0/69(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaTA  69
+              |||||||||
+Sbjct  59386  TAAAAAATA  59378
+
+
+
+
+
+Query #33: chr=4|start=166802003|end=166802070|length=68 Query ID: lcl|Query_63028 Length: 68
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       126    126   100%  3e-27 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       126    126   100%  3e-27 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437521 to 437588
+
+Score:126 bits(68), Expect:3e-27, 
+Identities:68/68(100%),  Gaps:0/68(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaaT  68
+               ||||||||
+Sbjct  437528  TAAAAAAT  437521
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59379 to 59446
+
+Score:126 bits(68), Expect:3e-27, 
+Identities:68/68(100%),  Gaps:0/68(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaaT  68
+              ||||||||
+Sbjct  59386  TAAAAAAT  59379
+
+
+
+
+
+Query #34: chr=4|start=166802003|end=166802069|length=67 Query ID: lcl|Query_63029 Length: 67
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       124    124   100%  1e-26 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       124    124   100%  1e-26 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437522 to 437588
+
+Score:124 bits(67), Expect:1e-26, 
+Identities:67/67(100%),  Gaps:0/67(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaaa  67
+               |||||||
+Sbjct  437528  TAAAAAA  437522
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59380 to 59446
+
+Score:124 bits(67), Expect:1e-26, 
+Identities:67/67(100%),  Gaps:0/67(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaaa  67
+              |||||||
+Sbjct  59386  TAAAAAA  59380
+
+
+
+
+
+Query #35: chr=4|start=166802003|end=166802068|length=66 Query ID: lcl|Query_63030 Length: 66
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       122    122   100%  3e-26 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       122    122   100%  3e-26 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437523 to 437588
+
+Score:122 bits(66), Expect:3e-26, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      taaaaa  66
+               ||||||
+Sbjct  437528  TAAAAA  437523
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59381 to 59446
+
+Score:122 bits(66), Expect:3e-26, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCaaaaaat  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     taaaaa  66
+              ||||||
+Sbjct  59386  TAAAAA  59381
+
+
+
+
+
+Query #36: chr=4|start=166802003|end=166802067|length=65 Query ID: lcl|Query_63031 Length: 65
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       121    121   100%  1e-25 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       121    121   100%  1e-25 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437524 to 437588
+
+Score:121 bits(65), Expect:1e-25, 
+Identities:65/65(100%),  Gaps:0/65(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      TAAAA  65
+               |||||
+Sbjct  437528  TAAAA  437524
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59382 to 59446
+
+Score:121 bits(65), Expect:1e-25, 
+Identities:65/65(100%),  Gaps:0/65(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     TAAAA  65
+              |||||
+Sbjct  59386  TAAAA  59382
+
+
+
+
+
+Query #37: chr=4|start=166802003|end=166802066|length=64 Query ID: lcl|Query_63032 Length: 64
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       119    119   100%  4e-25 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       119    119   100%  4e-25 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437525 to 437588
+
+Score:119 bits(64), Expect:4e-25, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      TAAA  64
+               ||||
+Sbjct  437528  TAAA  437525
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59383 to 59446
+
+Score:119 bits(64), Expect:4e-25, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     TAAA  64
+              ||||
+Sbjct  59386  TAAA  59383
+
+
+
+
+
+Query #38: chr=4|start=166802003|end=166802065|length=63 Query ID: lcl|Query_63033 Length: 63
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       117    117   100%  1e-24 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       117    117   100%  1e-24 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437526 to 437588
+
+Score:117 bits(63), Expect:1e-24, 
+Identities:63/63(100%),  Gaps:0/63(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      TAA  63
+               |||
+Sbjct  437528  TAA  437526
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59384 to 59446
+
+Score:117 bits(63), Expect:1e-24, 
+Identities:63/63(100%),  Gaps:0/63(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     TAA  63
+              |||
+Sbjct  59386  TAA  59384
+
+
+
+
+
+Query #39: chr=4|start=166802003|end=166802064|length=62 Query ID: lcl|Query_63034 Length: 62
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       115    115   100%  5e-24 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       115    115   100%  5e-24 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437527 to 437588
+
+Score:115 bits(62), Expect:5e-24, 
+Identities:62/62(100%),  Gaps:0/62(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      TA  62
+               ||
+Sbjct  437528  TA  437527
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59385 to 59446
+
+Score:115 bits(62), Expect:5e-24, 
+Identities:62/62(100%),  Gaps:0/62(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     TA  62
+              ||
+Sbjct  59386  TA  59385
+
+
+
+
+
+Query #40: chr=4|start=166802003|end=166802063|length=61 Query ID: lcl|Query_63035 Length: 61
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       113    113   100%  2e-23 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       113    113   100%  2e-23 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437528 to 437588
+
+Score:113 bits(61), Expect:2e-23, 
+Identities:61/61(100%),  Gaps:0/61(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+Query  61      T  61
+               |
+Sbjct  437528  T  437528
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59386 to 59446
+
+Score:113 bits(61), Expect:2e-23, 
+Identities:61/61(100%),  Gaps:0/61(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+Query  61     T  61
+              |
+Sbjct  59386  T  59386
+
+
+
+
+
+Query #41: chr=4|start=166802003|end=166802062|length=60 Query ID: lcl|Query_63036 Length: 60
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       111    111   100%  6e-23 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       111    111   100%  6e-23 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437529 to 437588
+
+Score:111 bits(60), Expect:6e-23, 
+Identities:60/60(100%),  Gaps:0/60(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  437529
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59387 to 59446
+
+Score:111 bits(60), Expect:6e-23, 
+Identities:60/60(100%),  Gaps:0/60(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAAT  59387
+
+
+
+
+
+Query #42: chr=4|start=166802003|end=166802061|length=59 Query ID: lcl|Query_63037 Length: 59
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       110    110   100%  2e-22 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       110    110   100%  2e-22 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437530 to 437588
+
+Score:110 bits(59), Expect:2e-22, 
+Identities:59/59(100%),  Gaps:0/59(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAA  59
+               |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAA  437530
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59388 to 59446
+
+Score:110 bits(59), Expect:2e-22, 
+Identities:59/59(100%),  Gaps:0/59(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAA  59
+              |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAAA  59388
+
+
+
+
+
+Query #43: chr=4|start=166802003|end=166802060|length=58 Query ID: lcl|Query_63038 Length: 58
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       108    108   100%  8e-22 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       108    108   100%  8e-22 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437531 to 437588
+
+Score:108 bits(58), Expect:8e-22, 
+Identities:58/58(100%),  Gaps:0/58(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAA  58
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAA  437531
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59389 to 59446
+
+Score:108 bits(58), Expect:8e-22, 
+Identities:58/58(100%),  Gaps:0/58(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAA  58
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAAA  59389
+
+
+
+
+
+Query #44: chr=4|start=166802003|end=166802059|length=57 Query ID: lcl|Query_63039 Length: 57
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       106    106   100%  3e-21 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       106    106   100%  3e-21 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437532 to 437588
+
+Score:106 bits(57), Expect:3e-21, 
+Identities:57/57(100%),  Gaps:0/57(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAA  57
+               |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAA  437532
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59390 to 59446
+
+Score:106 bits(57), Expect:3e-21, 
+Identities:57/57(100%),  Gaps:0/57(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAA  57
+              |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAAA  59390
+
+
+
+
+
+Query #45: chr=4|start=166802003|end=166802058|length=56 Query ID: lcl|Query_63040 Length: 56
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       104    104   100%  1e-20 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       104    104   100%  1e-20 100.00 173821     AC020599.4       
+Homo sapiens isolate CHM13 chromosome 22                          Homo sapiens    human           9606       38.1   38.1  41%   0.98  95.65  51324926   CP068256.2       
+Homo sapiens DNA, chromosome 22, nearly complete genome           Homo sapiens    human           9606       38.1   38.1  41%   0.98  95.65  46684173   AP023482.1       
+Human DNA sequence from clone RP4-753M9 on chromosome 22,...      Homo sapiens    human           9606       38.1   38.1  41%   0.98  95.65  57698      AL079301.14      
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437533 to 437588
+
+Score:104 bits(56), Expect:1e-20, 
+Identities:56/56(100%),  Gaps:0/56(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAA  56
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAA  437533
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59391 to 59446
+
+Score:104 bits(56), Expect:1e-20, 
+Identities:56/56(100%),  Gaps:0/56(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAA  56
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAAA  59391
+
+
+
+
+>Homo sapiens isolate CHM13 chromosome 22
+Sequence ID: CP068256.2 Length: 51324926
+Range 1: 45452125 to 45452147
+
+Score:38.1 bits(20), Expect:0.98, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGAAAG  45
+                 |||||||||||||||||||| ||
+Sbjct  45452147  CGACACAGAGCCAAGTCAGAGAG  45452125
+
+
+
+
+>Homo sapiens DNA, chromosome 22, nearly complete genome
+Sequence ID: AP023482.1 Length: 46684173
+Range 1: 40818137 to 40818159
+
+Score:38.1 bits(20), Expect:0.98, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGAAAG  45
+                 |||||||||||||||||||| ||
+Sbjct  40818159  CGACACAGAGCCAAGTCAGAGAG  40818137
+
+
+
+
+>Human DNA sequence from clone RP4-753M9 on chromosome 22, complete sequence
+Sequence ID: AL079301.14 Length: 57698
+Range 1: 19223 to 19245
+
+Score:38.1 bits(20), Expect:0.98, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23     CGACACAGAGCCAAGTCAGAAAG  45
+              |||||||||||||||||||| ||
+Sbjct  19245  CGACACAGAGCCAAGTCAGAGAG  19223
+
+
+
+
+
+Query #46: chr=4|start=166802003|end=166802057|length=55 Query ID: lcl|Query_63041 Length: 55
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       102    102   100%  3e-20 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       102    102   100%  3e-20 100.00 173821     AC020599.4       
+Homo sapiens isolate CHM13 chromosome 22                          Homo sapiens    human           9606       38.1   38.1  41%   0.95  95.65  51324926   CP068256.2       
+Homo sapiens DNA, chromosome 22, nearly complete genome           Homo sapiens    human           9606       38.1   38.1  41%   0.95  95.65  46684173   AP023482.1       
+Human DNA sequence from clone RP4-753M9 on chromosome 22,...      Homo sapiens    human           9606       38.1   38.1  41%   0.95  95.65  57698      AL079301.14      
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437534 to 437588
+
+Score:102 bits(55), Expect:3e-20, 
+Identities:55/55(100%),  Gaps:0/55(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAA  55
+               |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAA  437534
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59392 to 59446
+
+Score:102 bits(55), Expect:3e-20, 
+Identities:55/55(100%),  Gaps:0/55(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAA  55
+              |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCAA  59392
+
+
+
+
+>Homo sapiens isolate CHM13 chromosome 22
+Sequence ID: CP068256.2 Length: 51324926
+Range 1: 45452125 to 45452147
+
+Score:38.1 bits(20), Expect:0.95, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGAAAG  45
+                 |||||||||||||||||||| ||
+Sbjct  45452147  CGACACAGAGCCAAGTCAGAGAG  45452125
+
+
+
+
+>Homo sapiens DNA, chromosome 22, nearly complete genome
+Sequence ID: AP023482.1 Length: 46684173
+Range 1: 40818137 to 40818159
+
+Score:38.1 bits(20), Expect:0.95, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGAAAG  45
+                 |||||||||||||||||||| ||
+Sbjct  40818159  CGACACAGAGCCAAGTCAGAGAG  40818137
+
+
+
+
+>Human DNA sequence from clone RP4-753M9 on chromosome 22, complete sequence
+Sequence ID: AL079301.14 Length: 57698
+Range 1: 19223 to 19245
+
+Score:38.1 bits(20), Expect:0.95, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23     CGACACAGAGCCAAGTCAGAAAG  45
+              |||||||||||||||||||| ||
+Sbjct  19245  CGACACAGAGCCAAGTCAGAGAG  19223
+
+
+
+
+
+Query #47: chr=4|start=166802003|end=166802056|length=54 Query ID: lcl|Query_63042 Length: 54
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       100    100   100%  1e-19 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       100    100   100%  1e-19 100.00 173821     AC020599.4       
+Homo sapiens isolate CHM13 chromosome 22                          Homo sapiens    human           9606       38.1   38.1  42%   0.92  95.65  51324926   CP068256.2       
+Homo sapiens DNA, chromosome 22, nearly complete genome           Homo sapiens    human           9606       38.1   38.1  42%   0.92  95.65  46684173   AP023482.1       
+Human DNA sequence from clone RP4-753M9 on chromosome 22,...      Homo sapiens    human           9606       38.1   38.1  42%   0.92  95.65  57698      AL079301.14      
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437535 to 437588
+
+Score:100 bits(54), Expect:1e-19, 
+Identities:54/54(100%),  Gaps:0/54(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCA  54
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCA  437535
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59393 to 59446
+
+Score:100 bits(54), Expect:1e-19, 
+Identities:54/54(100%),  Gaps:0/54(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCA  54
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCCA  59393
+
+
+
+
+>Homo sapiens isolate CHM13 chromosome 22
+Sequence ID: CP068256.2 Length: 51324926
+Range 1: 45452125 to 45452147
+
+Score:38.1 bits(20), Expect:0.92, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGAAAG  45
+                 |||||||||||||||||||| ||
+Sbjct  45452147  CGACACAGAGCCAAGTCAGAGAG  45452125
+
+
+
+
+>Homo sapiens DNA, chromosome 22, nearly complete genome
+Sequence ID: AP023482.1 Length: 46684173
+Range 1: 40818137 to 40818159
+
+Score:38.1 bits(20), Expect:0.92, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGAAAG  45
+                 |||||||||||||||||||| ||
+Sbjct  40818159  CGACACAGAGCCAAGTCAGAGAG  40818137
+
+
+
+
+>Human DNA sequence from clone RP4-753M9 on chromosome 22, complete sequence
+Sequence ID: AL079301.14 Length: 57698
+Range 1: 19223 to 19245
+
+Score:38.1 bits(20), Expect:0.92, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23     CGACACAGAGCCAAGTCAGAAAG  45
+              |||||||||||||||||||| ||
+Sbjct  19245  CGACACAGAGCCAAGTCAGAGAG  19223
+
+
+
+
+
+Query #48: chr=4|start=166802003|end=166802055|length=53 Query ID: lcl|Query_63043 Length: 53
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       99.0   99.0  100%  4e-19 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       99.0   99.0  100%  4e-19 100.00 173821     AC020599.4       
+Homo sapiens isolate CHM13 chromosome 22                          Homo sapiens    human           9606       38.1   38.1  43%   0.88  95.65  51324926   CP068256.2       
+Homo sapiens DNA, chromosome 22, nearly complete genome           Homo sapiens    human           9606       38.1   38.1  43%   0.88  95.65  46684173   AP023482.1       
+Human DNA sequence from clone RP4-753M9 on chromosome 22,...      Homo sapiens    human           9606       38.1   38.1  43%   0.88  95.65  57698      AL079301.14      
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437536 to 437588
+
+Score:99.0 bits(53), Expect:4e-19, 
+Identities:53/53(100%),  Gaps:0/53(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCC  53
+               |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCC  437536
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59394 to 59446
+
+Score:99.0 bits(53), Expect:4e-19, 
+Identities:53/53(100%),  Gaps:0/53(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCC  53
+              |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCCC  59394
+
+
+
+
+>Homo sapiens isolate CHM13 chromosome 22
+Sequence ID: CP068256.2 Length: 51324926
+Range 1: 45452125 to 45452147
+
+Score:38.1 bits(20), Expect:0.88, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGAAAG  45
+                 |||||||||||||||||||| ||
+Sbjct  45452147  CGACACAGAGCCAAGTCAGAGAG  45452125
+
+
+
+
+>Homo sapiens DNA, chromosome 22, nearly complete genome
+Sequence ID: AP023482.1 Length: 46684173
+Range 1: 40818137 to 40818159
+
+Score:38.1 bits(20), Expect:0.88, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGAAAG  45
+                 |||||||||||||||||||| ||
+Sbjct  40818159  CGACACAGAGCCAAGTCAGAGAG  40818137
+
+
+
+
+>Human DNA sequence from clone RP4-753M9 on chromosome 22, complete sequence
+Sequence ID: AL079301.14 Length: 57698
+Range 1: 19223 to 19245
+
+Score:38.1 bits(20), Expect:0.88, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23     CGACACAGAGCCAAGTCAGAAAG  45
+              |||||||||||||||||||| ||
+Sbjct  19245  CGACACAGAGCCAAGTCAGAGAG  19223
+
+
+
+
+
+Query #49: chr=4|start=166802003|end=166802054|length=52 Query ID: lcl|Query_63044 Length: 52
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       97.1   97.1  100%  1e-18 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       97.1   97.1  100%  1e-18 100.00 173821     AC020599.4       
+Homo sapiens isolate CHM13 chromosome 22                          Homo sapiens    human           9606       38.1   38.1  44%   0.85  95.65  51324926   CP068256.2       
+Homo sapiens DNA, chromosome 22, nearly complete genome           Homo sapiens    human           9606       38.1   38.1  44%   0.85  95.65  46684173   AP023482.1       
+Human DNA sequence from clone RP4-753M9 on chromosome 22,...      Homo sapiens    human           9606       38.1   38.1  44%   0.85  95.65  57698      AL079301.14      
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437537 to 437588
+
+Score:97.1 bits(52), Expect:1e-18, 
+Identities:52/52(100%),  Gaps:0/52(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCC  52
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCC  437537
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59395 to 59446
+
+Score:97.1 bits(52), Expect:1e-18, 
+Identities:52/52(100%),  Gaps:0/52(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCC  52
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTCC  59395
+
+
+
+
+>Homo sapiens isolate CHM13 chromosome 22
+Sequence ID: CP068256.2 Length: 51324926
+Range 1: 45452125 to 45452147
+
+Score:38.1 bits(20), Expect:0.85, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGAAAG  45
+                 |||||||||||||||||||| ||
+Sbjct  45452147  CGACACAGAGCCAAGTCAGAGAG  45452125
+
+
+
+
+>Homo sapiens DNA, chromosome 22, nearly complete genome
+Sequence ID: AP023482.1 Length: 46684173
+Range 1: 40818137 to 40818159
+
+Score:38.1 bits(20), Expect:0.85, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGAAAG  45
+                 |||||||||||||||||||| ||
+Sbjct  40818159  CGACACAGAGCCAAGTCAGAGAG  40818137
+
+
+
+
+>Human DNA sequence from clone RP4-753M9 on chromosome 22, complete sequence
+Sequence ID: AL079301.14 Length: 57698
+Range 1: 19223 to 19245
+
+Score:38.1 bits(20), Expect:0.85, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23     CGACACAGAGCCAAGTCAGAAAG  45
+              |||||||||||||||||||| ||
+Sbjct  19245  CGACACAGAGCCAAGTCAGAGAG  19223
+
+
+
+
+
+Query #50: chr=4|start=166802003|end=166802053|length=51 Query ID: lcl|Query_63045 Length: 51
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       95.3   95.3  100%  5e-18 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       95.3   95.3  100%  5e-18 100.00 173821     AC020599.4       
+Homo sapiens isolate CHM13 chromosome 22                          Homo sapiens    human           9606       38.1   38.1  45%   0.81  95.65  51324926   CP068256.2       
+Homo sapiens DNA, chromosome 22, nearly complete genome           Homo sapiens    human           9606       38.1   38.1  45%   0.81  95.65  46684173   AP023482.1       
+Human DNA sequence from clone RP4-753M9 on chromosome 22,...      Homo sapiens    human           9606       38.1   38.1  45%   0.81  95.65  57698      AL079301.14      
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437538 to 437588
+
+Score:95.3 bits(51), Expect:5e-18, 
+Identities:51/51(100%),  Gaps:0/51(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTC  51
+               |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTC  437538
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59396 to 59446
+
+Score:95.3 bits(51), Expect:5e-18, 
+Identities:51/51(100%),  Gaps:0/51(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTC  51
+              |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTTC  59396
+
+
+
+
+>Homo sapiens isolate CHM13 chromosome 22
+Sequence ID: CP068256.2 Length: 51324926
+Range 1: 45452125 to 45452147
+
+Score:38.1 bits(20), Expect:0.81, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGAAAG  45
+                 |||||||||||||||||||| ||
+Sbjct  45452147  CGACACAGAGCCAAGTCAGAGAG  45452125
+
+
+
+
+>Homo sapiens DNA, chromosome 22, nearly complete genome
+Sequence ID: AP023482.1 Length: 46684173
+Range 1: 40818137 to 40818159
+
+Score:38.1 bits(20), Expect:0.81, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGAAAG  45
+                 |||||||||||||||||||| ||
+Sbjct  40818159  CGACACAGAGCCAAGTCAGAGAG  40818137
+
+
+
+
+>Human DNA sequence from clone RP4-753M9 on chromosome 22, complete sequence
+Sequence ID: AL079301.14 Length: 57698
+Range 1: 19223 to 19245
+
+Score:38.1 bits(20), Expect:0.81, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23     CGACACAGAGCCAAGTCAGAAAG  45
+              |||||||||||||||||||| ||
+Sbjct  19245  CGACACAGAGCCAAGTCAGAGAG  19223
+
+
+
+
+
+Query #51: chr=4|start=166802003|end=166802052|length=50 Query ID: lcl|Query_63046 Length: 50
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       93.5   93.5  100%  2e-17 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       93.5   93.5  100%  2e-17 100.00 173821     AC020599.4       
+Homo sapiens isolate CHM13 chromosome 22                          Homo sapiens    human           9606       38.1   38.1  46%   0.78  95.65  51324926   CP068256.2       
+Homo sapiens DNA, chromosome 22, nearly complete genome           Homo sapiens    human           9606       38.1   38.1  46%   0.78  95.65  46684173   AP023482.1       
+Human DNA sequence from clone RP4-753M9 on chromosome 22,...      Homo sapiens    human           9606       38.1   38.1  46%   0.78  95.65  57698      AL079301.14      
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437539 to 437588
+
+Score:93.5 bits(50), Expect:2e-17, 
+Identities:50/50(100%),  Gaps:0/50(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTT  50
+               ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTT  437539
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59397 to 59446
+
+Score:93.5 bits(50), Expect:2e-17, 
+Identities:50/50(100%),  Gaps:0/50(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTT  50
+              ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTTT  59397
+
+
+
+
+>Homo sapiens isolate CHM13 chromosome 22
+Sequence ID: CP068256.2 Length: 51324926
+Range 1: 45452125 to 45452147
+
+Score:38.1 bits(20), Expect:0.78, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGAAAG  45
+                 |||||||||||||||||||| ||
+Sbjct  45452147  CGACACAGAGCCAAGTCAGAGAG  45452125
+
+
+
+
+>Homo sapiens DNA, chromosome 22, nearly complete genome
+Sequence ID: AP023482.1 Length: 46684173
+Range 1: 40818137 to 40818159
+
+Score:38.1 bits(20), Expect:0.78, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGAAAG  45
+                 |||||||||||||||||||| ||
+Sbjct  40818159  CGACACAGAGCCAAGTCAGAGAG  40818137
+
+
+
+
+>Human DNA sequence from clone RP4-753M9 on chromosome 22, complete sequence
+Sequence ID: AL079301.14 Length: 57698
+Range 1: 19223 to 19245
+
+Score:38.1 bits(20), Expect:0.78, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23     CGACACAGAGCCAAGTCAGAAAG  45
+              |||||||||||||||||||| ||
+Sbjct  19245  CGACACAGAGCCAAGTCAGAGAG  19223
+
+
+
+
+
+Query #52: chr=4|start=166802003|end=166802051|length=49 Query ID: lcl|Query_63047 Length: 49
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       91.6   91.6  100%  6e-17 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       91.6   91.6  100%  6e-17 100.00 173821     AC020599.4       
+Homo sapiens isolate CHM13 chromosome 22                          Homo sapiens    human           9606       38.1   38.1  46%   0.75  95.65  51324926   CP068256.2       
+Homo sapiens DNA, chromosome 22, nearly complete genome           Homo sapiens    human           9606       38.1   38.1  46%   0.75  95.65  46684173   AP023482.1       
+Human DNA sequence from clone RP4-753M9 on chromosome 22,...      Homo sapiens    human           9606       38.1   38.1  46%   0.75  95.65  57698      AL079301.14      
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437540 to 437588
+
+Score:91.6 bits(49), Expect:6e-17, 
+Identities:49/49(100%),  Gaps:0/49(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTT  49
+               |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTT  437540
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59398 to 59446
+
+Score:91.6 bits(49), Expect:6e-17, 
+Identities:49/49(100%),  Gaps:0/49(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTT  49
+              |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTTT  59398
+
+
+
+
+>Homo sapiens isolate CHM13 chromosome 22
+Sequence ID: CP068256.2 Length: 51324926
+Range 1: 45452125 to 45452147
+
+Score:38.1 bits(20), Expect:0.75, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGAAAG  45
+                 |||||||||||||||||||| ||
+Sbjct  45452147  CGACACAGAGCCAAGTCAGAGAG  45452125
+
+
+
+
+>Homo sapiens DNA, chromosome 22, nearly complete genome
+Sequence ID: AP023482.1 Length: 46684173
+Range 1: 40818137 to 40818159
+
+Score:38.1 bits(20), Expect:0.75, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGAAAG  45
+                 |||||||||||||||||||| ||
+Sbjct  40818159  CGACACAGAGCCAAGTCAGAGAG  40818137
+
+
+
+
+>Human DNA sequence from clone RP4-753M9 on chromosome 22, complete sequence
+Sequence ID: AL079301.14 Length: 57698
+Range 1: 19223 to 19245
+
+Score:38.1 bits(20), Expect:0.75, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23     CGACACAGAGCCAAGTCAGAAAG  45
+              |||||||||||||||||||| ||
+Sbjct  19245  CGACACAGAGCCAAGTCAGAGAG  19223
+
+
+
+
+
+Query #53: chr=4|start=166802003|end=166802050|length=48 Query ID: lcl|Query_63048 Length: 48
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       89.8   89.8  100%  2e-16 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       89.8   89.8  100%  2e-16 100.00 173821     AC020599.4       
+Homo sapiens isolate CHM13 chromosome 22                          Homo sapiens    human           9606       38.1   38.1  47%   0.71  95.65  51324926   CP068256.2       
+Homo sapiens DNA, chromosome 22, nearly complete genome           Homo sapiens    human           9606       38.1   38.1  47%   0.71  95.65  46684173   AP023482.1       
+Human DNA sequence from clone RP4-753M9 on chromosome 22,...      Homo sapiens    human           9606       38.1   38.1  47%   0.71  95.65  57698      AL079301.14      
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437541 to 437588
+
+Score:89.8 bits(48), Expect:2e-16, 
+Identities:48/48(100%),  Gaps:0/48(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTT  48
+               ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTT  437541
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59399 to 59446
+
+Score:89.8 bits(48), Expect:2e-16, 
+Identities:48/48(100%),  Gaps:0/48(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTT  48
+              ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTTT  59399
+
+
+
+
+>Homo sapiens isolate CHM13 chromosome 22
+Sequence ID: CP068256.2 Length: 51324926
+Range 1: 45452125 to 45452147
+
+Score:38.1 bits(20), Expect:0.71, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGAAAG  45
+                 |||||||||||||||||||| ||
+Sbjct  45452147  CGACACAGAGCCAAGTCAGAGAG  45452125
+
+
+
+
+>Homo sapiens DNA, chromosome 22, nearly complete genome
+Sequence ID: AP023482.1 Length: 46684173
+Range 1: 40818137 to 40818159
+
+Score:38.1 bits(20), Expect:0.71, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGAAAG  45
+                 |||||||||||||||||||| ||
+Sbjct  40818159  CGACACAGAGCCAAGTCAGAGAG  40818137
+
+
+
+
+>Human DNA sequence from clone RP4-753M9 on chromosome 22, complete sequence
+Sequence ID: AL079301.14 Length: 57698
+Range 1: 19223 to 19245
+
+Score:38.1 bits(20), Expect:0.71, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23     CGACACAGAGCCAAGTCAGAAAG  45
+              |||||||||||||||||||| ||
+Sbjct  19245  CGACACAGAGCCAAGTCAGAGAG  19223
+
+
+
+
+
+Query #54: chr=4|start=166802003|end=166802049|length=47 Query ID: lcl|Query_63049 Length: 47
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       87.9   87.9  100%  7e-16 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       87.9   87.9  100%  7e-16 100.00 173821     AC020599.4       
+Homo sapiens isolate CHM13 chromosome 22                          Homo sapiens    human           9606       38.1   38.1  48%   0.68  95.65  51324926   CP068256.2       
+Homo sapiens DNA, chromosome 22, nearly complete genome           Homo sapiens    human           9606       38.1   38.1  48%   0.68  95.65  46684173   AP023482.1       
+Human DNA sequence from clone RP4-753M9 on chromosome 22,...      Homo sapiens    human           9606       38.1   38.1  48%   0.68  95.65  57698      AL079301.14      
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437542 to 437588
+
+Score:87.9 bits(47), Expect:7e-16, 
+Identities:47/47(100%),  Gaps:0/47(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTT  47
+               |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTT  437542
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59400 to 59446
+
+Score:87.9 bits(47), Expect:7e-16, 
+Identities:47/47(100%),  Gaps:0/47(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTT  47
+              |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGTT  59400
+
+
+
+
+>Homo sapiens isolate CHM13 chromosome 22
+Sequence ID: CP068256.2 Length: 51324926
+Range 1: 45452125 to 45452147
+
+Score:38.1 bits(20), Expect:0.68, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGAAAG  45
+                 |||||||||||||||||||| ||
+Sbjct  45452147  CGACACAGAGCCAAGTCAGAGAG  45452125
+
+
+
+
+>Homo sapiens DNA, chromosome 22, nearly complete genome
+Sequence ID: AP023482.1 Length: 46684173
+Range 1: 40818137 to 40818159
+
+Score:38.1 bits(20), Expect:0.68, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGAAAG  45
+                 |||||||||||||||||||| ||
+Sbjct  40818159  CGACACAGAGCCAAGTCAGAGAG  40818137
+
+
+
+
+>Human DNA sequence from clone RP4-753M9 on chromosome 22, complete sequence
+Sequence ID: AL079301.14 Length: 57698
+Range 1: 19223 to 19245
+
+Score:38.1 bits(20), Expect:0.68, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23     CGACACAGAGCCAAGTCAGAAAG  45
+              |||||||||||||||||||| ||
+Sbjct  19245  CGACACAGAGCCAAGTCAGAGAG  19223
+
+
+
+
+
+Query #55: chr=4|start=166802003|end=166802048|length=46 Query ID: lcl|Query_63050 Length: 46
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       86.1   86.1  100%  2e-15 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       86.1   86.1  100%  2e-15 100.00 173821     AC020599.4       
+Homo sapiens isolate CHM13 chromosome 22                          Homo sapiens    human           9606       38.1   38.1  50%   0.64  95.65  51324926   CP068256.2       
+Homo sapiens DNA, chromosome 22, nearly complete genome           Homo sapiens    human           9606       38.1   38.1  50%   0.64  95.65  46684173   AP023482.1       
+Human DNA sequence from clone RP4-753M9 on chromosome 22,...      Homo sapiens    human           9606       38.1   38.1  50%   0.64  95.65  57698      AL079301.14      
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437543 to 437588
+
+Score:86.1 bits(46), Expect:2e-15, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGT  46
+               ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGT  437543
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59401 to 59446
+
+Score:86.1 bits(46), Expect:2e-15, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGT  46
+              ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAGT  59401
+
+
+
+
+>Homo sapiens isolate CHM13 chromosome 22
+Sequence ID: CP068256.2 Length: 51324926
+Range 1: 45452125 to 45452147
+
+Score:38.1 bits(20), Expect:0.64, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGAAAG  45
+                 |||||||||||||||||||| ||
+Sbjct  45452147  CGACACAGAGCCAAGTCAGAGAG  45452125
+
+
+
+
+>Homo sapiens DNA, chromosome 22, nearly complete genome
+Sequence ID: AP023482.1 Length: 46684173
+Range 1: 40818137 to 40818159
+
+Score:38.1 bits(20), Expect:0.64, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGAAAG  45
+                 |||||||||||||||||||| ||
+Sbjct  40818159  CGACACAGAGCCAAGTCAGAGAG  40818137
+
+
+
+
+>Human DNA sequence from clone RP4-753M9 on chromosome 22, complete sequence
+Sequence ID: AL079301.14 Length: 57698
+Range 1: 19223 to 19245
+
+Score:38.1 bits(20), Expect:0.64, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23     CGACACAGAGCCAAGTCAGAAAG  45
+              |||||||||||||||||||| ||
+Sbjct  19245  CGACACAGAGCCAAGTCAGAGAG  19223
+
+
+
+
+
+Query #56: chr=4|start=166802003|end=166802047|length=45 Query ID: lcl|Query_63051 Length: 45
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       84.2   84.2  100%  8e-15 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       84.2   84.2  100%  8e-15 100.00 173821     AC020599.4       
+Homo sapiens isolate CHM13 chromosome 22                          Homo sapiens    human           9606       38.1   38.1  51%   0.61  95.65  51324926   CP068256.2       
+Homo sapiens DNA, chromosome 22, nearly complete genome           Homo sapiens    human           9606       38.1   38.1  51%   0.61  95.65  46684173   AP023482.1       
+Human DNA sequence from clone RP4-753M9 on chromosome 22,...      Homo sapiens    human           9606       38.1   38.1  51%   0.61  95.65  57698      AL079301.14      
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437544 to 437588
+
+Score:84.2 bits(45), Expect:8e-15, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAG  45
+               |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAG  437544
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59402 to 59446
+
+Score:84.2 bits(45), Expect:8e-15, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAG  45
+              |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAAG  59402
+
+
+
+
+>Homo sapiens isolate CHM13 chromosome 22
+Sequence ID: CP068256.2 Length: 51324926
+Range 1: 45452125 to 45452147
+
+Score:38.1 bits(20), Expect:0.61, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGAAAG  45
+                 |||||||||||||||||||| ||
+Sbjct  45452147  CGACACAGAGCCAAGTCAGAGAG  45452125
+
+
+
+
+>Homo sapiens DNA, chromosome 22, nearly complete genome
+Sequence ID: AP023482.1 Length: 46684173
+Range 1: 40818137 to 40818159
+
+Score:38.1 bits(20), Expect:0.61, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGAAAG  45
+                 |||||||||||||||||||| ||
+Sbjct  40818159  CGACACAGAGCCAAGTCAGAGAG  40818137
+
+
+
+
+>Human DNA sequence from clone RP4-753M9 on chromosome 22, complete sequence
+Sequence ID: AL079301.14 Length: 57698
+Range 1: 19223 to 19245
+
+Score:38.1 bits(20), Expect:0.61, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  23     CGACACAGAGCCAAGTCAGAAAG  45
+              |||||||||||||||||||| ||
+Sbjct  19245  CGACACAGAGCCAAGTCAGAGAG  19223
+
+
+
+
+
+Query #57: chr=4|start=166802003|end=166802046|length=44 Query ID: lcl|Query_63052 Length: 44
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       82.4   82.4  100%  3e-14 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       82.4   82.4  100%  3e-14 100.00 173821     AC020599.4       
+Homo sapiens isolate CHM13 chromosome 22                          Homo sapiens    human           9606       38.1   38.1  45%   0.58  100.00 51324926   CP068256.2       
+Homo sapiens DNA, chromosome 22, nearly complete genome           Homo sapiens    human           9606       38.1   38.1  45%   0.58  100.00 46684173   AP023482.1       
+Human DNA sequence from clone RP4-753M9 on chromosome 22,...      Homo sapiens    human           9606       38.1   38.1  45%   0.58  100.00 57698      AL079301.14      
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437545 to 437588
+
+Score:82.4 bits(44), Expect:3e-14, 
+Identities:44/44(100%),  Gaps:0/44(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAA  44
+               ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAA  437545
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59403 to 59446
+
+Score:82.4 bits(44), Expect:3e-14, 
+Identities:44/44(100%),  Gaps:0/44(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAA  44
+              ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAAA  59403
+
+
+
+
+>Homo sapiens isolate CHM13 chromosome 22
+Sequence ID: CP068256.2 Length: 51324926
+Range 1: 45452128 to 45452147
+
+Score:38.1 bits(20), Expect:0.58, 
+Identities:20/20(100%),  Gaps:0/20(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGA  42
+                 ||||||||||||||||||||
+Sbjct  45452147  CGACACAGAGCCAAGTCAGA  45452128
+
+
+
+
+>Homo sapiens DNA, chromosome 22, nearly complete genome
+Sequence ID: AP023482.1 Length: 46684173
+Range 1: 40818140 to 40818159
+
+Score:38.1 bits(20), Expect:0.58, 
+Identities:20/20(100%),  Gaps:0/20(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGA  42
+                 ||||||||||||||||||||
+Sbjct  40818159  CGACACAGAGCCAAGTCAGA  40818140
+
+
+
+
+>Human DNA sequence from clone RP4-753M9 on chromosome 22, complete sequence
+Sequence ID: AL079301.14 Length: 57698
+Range 1: 19226 to 19245
+
+Score:38.1 bits(20), Expect:0.58, 
+Identities:20/20(100%),  Gaps:0/20(0%), Strand: Plus/Minus
+
+Query  23     CGACACAGAGCCAAGTCAGA  42
+              ||||||||||||||||||||
+Sbjct  19245  CGACACAGAGCCAAGTCAGA  19226
+
+
+
+
+
+Query #58: chr=4|start=166802003|end=166802045|length=43 Query ID: lcl|Query_63053 Length: 43
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       80.5   80.5  100%  9e-14 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       80.5   80.5  100%  9e-14 100.00 173821     AC020599.4       
+Homo sapiens isolate CHM13 chromosome 22                          Homo sapiens    human           9606       38.1   38.1  46%   0.54  100.00 51324926   CP068256.2       
+Homo sapiens DNA, chromosome 22, nearly complete genome           Homo sapiens    human           9606       38.1   38.1  46%   0.54  100.00 46684173   AP023482.1       
+Human DNA sequence from clone RP4-753M9 on chromosome 22,...      Homo sapiens    human           9606       38.1   38.1  46%   0.54  100.00 57698      AL079301.14      
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437546 to 437588
+
+Score:80.5 bits(43), Expect:9e-14, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAA  43
+               |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAA  437546
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59404 to 59446
+
+Score:80.5 bits(43), Expect:9e-14, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAA  43
+              |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGAA  59404
+
+
+
+
+>Homo sapiens isolate CHM13 chromosome 22
+Sequence ID: CP068256.2 Length: 51324926
+Range 1: 45452128 to 45452147
+
+Score:38.1 bits(20), Expect:0.54, 
+Identities:20/20(100%),  Gaps:0/20(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGA  42
+                 ||||||||||||||||||||
+Sbjct  45452147  CGACACAGAGCCAAGTCAGA  45452128
+
+
+
+
+>Homo sapiens DNA, chromosome 22, nearly complete genome
+Sequence ID: AP023482.1 Length: 46684173
+Range 1: 40818140 to 40818159
+
+Score:38.1 bits(20), Expect:0.54, 
+Identities:20/20(100%),  Gaps:0/20(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGA  42
+                 ||||||||||||||||||||
+Sbjct  40818159  CGACACAGAGCCAAGTCAGA  40818140
+
+
+
+
+>Human DNA sequence from clone RP4-753M9 on chromosome 22, complete sequence
+Sequence ID: AL079301.14 Length: 57698
+Range 1: 19226 to 19245
+
+Score:38.1 bits(20), Expect:0.54, 
+Identities:20/20(100%),  Gaps:0/20(0%), Strand: Plus/Minus
+
+Query  23     CGACACAGAGCCAAGTCAGA  42
+              ||||||||||||||||||||
+Sbjct  19245  CGACACAGAGCCAAGTCAGA  19226
+
+
+
+
+
+Query #59: chr=4|start=166802003|end=166802044|length=42 Query ID: lcl|Query_63054 Length: 42
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       78.7   78.7  100%  3e-13 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       78.7   78.7  100%  3e-13 100.00 173821     AC020599.4       
+Homo sapiens isolate CHM13 chromosome 22                          Homo sapiens    human           9606       38.1   38.1  47%   0.51  100.00 51324926   CP068256.2       
+Homo sapiens DNA, chromosome 22, nearly complete genome           Homo sapiens    human           9606       38.1   38.1  47%   0.51  100.00 46684173   AP023482.1       
+Human DNA sequence from clone RP4-753M9 on chromosome 22,...      Homo sapiens    human           9606       38.1   38.1  47%   0.51  100.00 57698      AL079301.14      
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437547 to 437588
+
+Score:78.7 bits(42), Expect:3e-13, 
+Identities:42/42(100%),  Gaps:0/42(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGA  42
+               ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGA  437547
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59405 to 59446
+
+Score:78.7 bits(42), Expect:3e-13, 
+Identities:42/42(100%),  Gaps:0/42(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGA  42
+              ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAGA  59405
+
+
+
+
+>Homo sapiens isolate CHM13 chromosome 22
+Sequence ID: CP068256.2 Length: 51324926
+Range 1: 45452128 to 45452147
+
+Score:38.1 bits(20), Expect:0.51, 
+Identities:20/20(100%),  Gaps:0/20(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGA  42
+                 ||||||||||||||||||||
+Sbjct  45452147  CGACACAGAGCCAAGTCAGA  45452128
+
+
+
+
+>Homo sapiens DNA, chromosome 22, nearly complete genome
+Sequence ID: AP023482.1 Length: 46684173
+Range 1: 40818140 to 40818159
+
+Score:38.1 bits(20), Expect:0.51, 
+Identities:20/20(100%),  Gaps:0/20(0%), Strand: Plus/Minus
+
+Query  23        CGACACAGAGCCAAGTCAGA  42
+                 ||||||||||||||||||||
+Sbjct  40818159  CGACACAGAGCCAAGTCAGA  40818140
+
+
+
+
+>Human DNA sequence from clone RP4-753M9 on chromosome 22, complete sequence
+Sequence ID: AL079301.14 Length: 57698
+Range 1: 19226 to 19245
+
+Score:38.1 bits(20), Expect:0.51, 
+Identities:20/20(100%),  Gaps:0/20(0%), Strand: Plus/Minus
+
+Query  23     CGACACAGAGCCAAGTCAGA  42
+              ||||||||||||||||||||
+Sbjct  19245  CGACACAGAGCCAAGTCAGA  19226
+
+
+
+
+
+Query #60: chr=4|start=166802003|end=166802043|length=41 Query ID: lcl|Query_63055 Length: 41
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       76.8   76.8  100%  1e-12 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       76.8   76.8  100%  1e-12 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437548 to 437588
+
+Score:76.8 bits(41), Expect:1e-12, 
+Identities:41/41(100%),  Gaps:0/41(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAG  41
+               |||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAG  437548
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59406 to 59446
+
+Score:76.8 bits(41), Expect:1e-12, 
+Identities:41/41(100%),  Gaps:0/41(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAG  41
+              |||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCAG  59406
+
+
+
+
+
+Query #61: chr=4|start=166802003|end=166802042|length=40 Query ID: lcl|Query_63056 Length: 40
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       75.0   75.0  100%  3e-12 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       75.0   75.0  100%  3e-12 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437549 to 437588
+
+Score:75.0 bits(40), Expect:3e-12, 
+Identities:40/40(100%),  Gaps:0/40(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCA  40
+               ||||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCA  437549
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59407 to 59446
+
+Score:75.0 bits(40), Expect:3e-12, 
+Identities:40/40(100%),  Gaps:0/40(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCA  40
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTCA  59407
+
+
+
+
+
+Query #62: chr=4|start=166802003|end=166802041|length=39 Query ID: lcl|Query_63057 Length: 39
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       73.1   73.1  100%  1e-11 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       73.1   73.1  100%  1e-11 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437550 to 437588
+
+Score:73.1 bits(39), Expect:1e-11, 
+Identities:39/39(100%),  Gaps:0/39(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTC  39
+               |||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTC  437550
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59408 to 59446
+
+Score:73.1 bits(39), Expect:1e-11, 
+Identities:39/39(100%),  Gaps:0/39(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTC  39
+              |||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGTC  59408
+
+
+
+
+
+Query #63: chr=4|start=166802003|end=166802040|length=38 Query ID: lcl|Query_63058 Length: 38
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       71.3   71.3  100%  4e-11 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       71.3   71.3  100%  4e-11 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437551 to 437588
+
+Score:71.3 bits(38), Expect:4e-11, 
+Identities:38/38(100%),  Gaps:0/38(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGT  38
+               ||||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGT  437551
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59409 to 59446
+
+Score:71.3 bits(38), Expect:4e-11, 
+Identities:38/38(100%),  Gaps:0/38(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGT  38
+              ||||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAGT  59409
+
+
+
+
+
+Query #64: chr=4|start=166802003|end=166802039|length=37 Query ID: lcl|Query_63059 Length: 37
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       69.4   69.4  100%  1e-10 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       69.4   69.4  100%  1e-10 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437552 to 437588
+
+Score:69.4 bits(37), Expect:1e-10, 
+Identities:37/37(100%),  Gaps:0/37(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAG  37
+               |||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAG  437552
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59410 to 59446
+
+Score:69.4 bits(37), Expect:1e-10, 
+Identities:37/37(100%),  Gaps:0/37(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAG  37
+              |||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAAG  59410
+
+
+
+
+
+Query #65: chr=4|start=166802003|end=166802038|length=36 Query ID: lcl|Query_63060 Length: 36
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       67.6   67.6  100%  4e-10 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       67.6   67.6  100%  4e-10 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437553 to 437588
+
+Score:67.6 bits(36), Expect:4e-10, 
+Identities:36/36(100%),  Gaps:0/36(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAA  36
+               ||||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAA  437553
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59411 to 59446
+
+Score:67.6 bits(36), Expect:4e-10, 
+Identities:36/36(100%),  Gaps:0/36(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAA  36
+              ||||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCAA  59411
+
+
+
+
+
+Query #66: chr=4|start=166802003|end=166802037|length=35 Query ID: lcl|Query_63061 Length: 35
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       65.8   65.8  100%  1e-09 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       65.8   65.8  100%  1e-09 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437554 to 437588
+
+Score:65.8 bits(35), Expect:1e-09, 
+Identities:35/35(100%),  Gaps:0/35(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCCA  35
+               |||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCA  437554
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59412 to 59446
+
+Score:65.8 bits(35), Expect:1e-09, 
+Identities:35/35(100%),  Gaps:0/35(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCCA  35
+              |||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCCA  59412
+
+
+
+
+
+Query #67: chr=4|start=166802003|end=166802036|length=34 Query ID: lcl|Query_63062 Length: 34
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       63.9   63.9  100%  4e-09 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       63.9   63.9  100%  4e-09 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437555 to 437588
+
+Score:63.9 bits(34), Expect:4e-09, 
+Identities:34/34(100%),  Gaps:0/34(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGCC  34
+               ||||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGCC  437555
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59413 to 59446
+
+Score:63.9 bits(34), Expect:4e-09, 
+Identities:34/34(100%),  Gaps:0/34(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGCC  34
+              ||||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGCC  59413
+
+
+
+
+
+Query #68: chr=4|start=166802003|end=166802035|length=33 Query ID: lcl|Query_63063 Length: 33
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       62.1   62.1  100%  1e-08 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       62.1   62.1  100%  1e-08 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437556 to 437588
+
+Score:62.1 bits(33), Expect:1e-08, 
+Identities:33/33(100%),  Gaps:0/33(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAGC  33
+               |||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAGC  437556
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59414 to 59446
+
+Score:62.1 bits(33), Expect:1e-08, 
+Identities:33/33(100%),  Gaps:0/33(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAGC  33
+              |||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAGC  59414
+
+
+
+
+
+Query #69: chr=4|start=166802003|end=166802034|length=32 Query ID: lcl|Query_63064 Length: 32
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       60.2   60.2  100%  4e-08 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       60.2   60.2  100%  4e-08 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437557 to 437588
+
+Score:60.2 bits(32), Expect:4e-08, 
+Identities:32/32(100%),  Gaps:0/32(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGAG  32
+               ||||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGAG  437557
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59415 to 59446
+
+Score:60.2 bits(32), Expect:4e-08, 
+Identities:32/32(100%),  Gaps:0/32(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGAG  32
+              ||||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGAG  59415
+
+
+
+
+
+Query #70: chr=4|start=166802003|end=166802033|length=31 Query ID: lcl|Query_63065 Length: 31
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       58.4   58.4  100%  2e-07 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       58.4   58.4  100%  2e-07 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437558 to 437588
+
+Score:58.4 bits(31), Expect:2e-07, 
+Identities:31/31(100%),  Gaps:0/31(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAGA  31
+               |||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAGA  437558
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59416 to 59446
+
+Score:58.4 bits(31), Expect:2e-07, 
+Identities:31/31(100%),  Gaps:0/31(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAGA  31
+              |||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAGA  59416
+
+
+
+
+
+Query #71: chr=4|start=166802003|end=166802032|length=30 Query ID: lcl|Query_63066 Length: 30
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       56.5   56.5  100%  5e-07 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       56.5   56.5  100%  5e-07 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437559 to 437588
+
+Score:56.5 bits(30), Expect:5e-07, 
+Identities:30/30(100%),  Gaps:0/30(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACAG  30
+               ||||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACAG  437559
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59417 to 59446
+
+Score:56.5 bits(30), Expect:5e-07, 
+Identities:30/30(100%),  Gaps:0/30(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACAG  30
+              ||||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACAG  59417
+
+
+
+
+
+Query #72: chr=4|start=166802003|end=166802031|length=29 Query ID: lcl|Query_63067 Length: 29
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       54.7   54.7  100%  1e-06 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       54.7   54.7  100%  1e-06 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437560 to 437588
+
+Score:54.7 bits(29), Expect:1e-06, 
+Identities:29/29(100%),  Gaps:0/29(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACACA  29
+               |||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACACA  437560
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59418 to 59446
+
+Score:54.7 bits(29), Expect:1e-06, 
+Identities:29/29(100%),  Gaps:0/29(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACACA  29
+              |||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACACA  59418
+
+
+
+
+
+Query #73: chr=4|start=166802003|end=166802030|length=28 Query ID: lcl|Query_63068 Length: 28
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       52.8   52.8  100%  4e-06 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       52.8   52.8  100%  4e-06 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437561 to 437588
+
+Score:52.8 bits(28), Expect:4e-06, 
+Identities:28/28(100%),  Gaps:0/28(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACAC  28
+               ||||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACAC  437561
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59419 to 59446
+
+Score:52.8 bits(28), Expect:4e-06, 
+Identities:28/28(100%),  Gaps:0/28(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACAC  28
+              ||||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACAC  59419
+
+
+
+
+
+Query #74: chr=4|start=166802003|end=166802029|length=27 Query ID: lcl|Query_63069 Length: 27
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       51.0   51.0  100%  1e-05 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       51.0   51.0  100%  1e-05 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437562 to 437588
+
+Score:51.0 bits(27), Expect:1e-05, 
+Identities:27/27(100%),  Gaps:0/27(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGACA  27
+               |||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGACA  437562
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59420 to 59446
+
+Score:51.0 bits(27), Expect:1e-05, 
+Identities:27/27(100%),  Gaps:0/27(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGACA  27
+              |||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGACA  59420
+
+
+
+
+
+Query #75: chr=4|start=166802003|end=166802028|length=26 Query ID: lcl|Query_63070 Length: 26
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       49.1   49.1  100%  5e-05 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       49.1   49.1  100%  5e-05 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437563 to 437588
+
+Score:49.1 bits(26), Expect:5e-05, 
+Identities:26/26(100%),  Gaps:0/26(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGAC  26
+               ||||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGAC  437563
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59421 to 59446
+
+Score:49.1 bits(26), Expect:5e-05, 
+Identities:26/26(100%),  Gaps:0/26(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGAC  26
+              ||||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGAC  59421
+
+
+
+
+
+Query #76: chr=4|start=166802003|end=166802027|length=25 Query ID: lcl|Query_63071 Length: 25
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       47.3   47.3  100%  2e-04 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       47.3   47.3  100%  2e-04 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437564 to 437588
+
+Score:47.3 bits(25), Expect:2e-04, 
+Identities:25/25(100%),  Gaps:0/25(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCGA  25
+               |||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCGA  437564
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59422 to 59446
+
+Score:47.3 bits(25), Expect:2e-04, 
+Identities:25/25(100%),  Gaps:0/25(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCGA  25
+              |||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCGA  59422
+
+
+
+
+
+Query #77: chr=4|start=166802003|end=166802026|length=24 Query ID: lcl|Query_63072 Length: 24
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       45.4   45.4  100%  6e-04 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       45.4   45.4  100%  6e-04 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437565 to 437588
+
+Score:45.4 bits(24), Expect:6e-04, 
+Identities:24/24(100%),  Gaps:0/24(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTCG  24
+               ||||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTCG  437565
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59423 to 59446
+
+Score:45.4 bits(24), Expect:6e-04, 
+Identities:24/24(100%),  Gaps:0/24(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTCG  24
+              ||||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTCG  59423
+
+
+
+
+
+Query #78: chr=4|start=166802003|end=166802025|length=23 Query ID: lcl|Query_63073 Length: 23
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       43.6   43.6  100%  0.002 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       43.6   43.6  100%  0.002 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437566 to 437588
+
+Score:43.6 bits(23), Expect:0.002, 
+Identities:23/23(100%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTTC  23
+               |||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTTC  437566
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59424 to 59446
+
+Score:43.6 bits(23), Expect:0.002, 
+Identities:23/23(100%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTTC  23
+              |||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTTC  59424
+
+
+
+
+
+Query #79: chr=4|start=166802003|end=166802024|length=22 Query ID: lcl|Query_63074 Length: 22
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       41.7   41.7  100%  0.008 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       41.7   41.7  100%  0.008 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437567 to 437588
+
+Score:41.7 bits(22), Expect:0.008, 
+Identities:22/22(100%),  Gaps:0/22(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTTT  22
+               ||||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTTT  437567
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59425 to 59446
+
+Score:41.7 bits(22), Expect:0.008, 
+Identities:22/22(100%),  Gaps:0/22(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTTT  22
+              ||||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTTT  59425
+
+
+
+
+
+Query #80: chr=4|start=166802003|end=166802023|length=21 Query ID: lcl|Query_63075 Length: 21
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       39.9   39.9  100%  0.028 100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       39.9   39.9  100%  0.028 100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437568 to 437588
+
+Score:39.9 bits(21), Expect:0.028, 
+Identities:21/21(100%),  Gaps:0/21(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTTT  21
+               |||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTTT  437568
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59426 to 59446
+
+Score:39.9 bits(21), Expect:0.028, 
+Identities:21/21(100%),  Gaps:0/21(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTTT  21
+              |||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTTT  59426
+
+
+
+
+
+Query #81: chr=4|start=166802003|end=166802022|length=20 Query ID: lcl|Query_63076 Length: 20
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       38.1   38.1  100%  0.10  100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       38.1   38.1  100%  0.10  100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437569 to 437588
+
+Score:38.1 bits(20), Expect:0.10, 
+Identities:20/20(100%),  Gaps:0/20(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGTT  20
+               ||||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGTT  437569
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59427 to 59446
+
+Score:38.1 bits(20), Expect:0.10, 
+Identities:20/20(100%),  Gaps:0/20(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGTT  20
+              ||||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGTT  59427
+
+
+
+
+
+Query #82: chr=4|start=166802003|end=166802021|length=19 Query ID: lcl|Query_63077 Length: 19
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens SPARC (osteonectin), cwcv and kazal like domains...  Homo sapiens    human           9606       36.2   36.2  100%  0.37  100.00 508207     NG_030414.1      
+Homo sapiens BAC clone RP11-440L13 from 4, complete sequence      Homo sapiens    human           9606       36.2   36.2  100%  0.37  100.00 173821     AC020599.4       
+
+
+Alignments:
+
+>Homo sapiens SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 (SPOCK3), RefSeqGene on chromosome 4
+Sequence ID: NG_030414.1 Length: 508207
+Range 1: 437570 to 437588
+
+Score:36.2 bits(19), Expect:0.37, 
+Identities:19/19(100%),  Gaps:0/19(0%), Strand: Plus/Minus
+
+Query  1       GTTCAATTGTGAGATATGT  19
+               |||||||||||||||||||
+Sbjct  437588  GTTCAATTGTGAGATATGT  437570
+
+
+
+
+>Homo sapiens BAC clone RP11-440L13 from 4, complete sequence
+Sequence ID: AC020599.4 Length: 173821
+Range 1: 59428 to 59446
+
+Score:36.2 bits(19), Expect:0.37, 
+Identities:19/19(100%),  Gaps:0/19(0%), Strand: Plus/Minus
+
+Query  1      GTTCAATTGTGAGATATGT  19
+              |||||||||||||||||||
+Sbjct  59446  GTTCAATTGTGAGATATGT  59428
+
+
+
+
+
+Query #83: chr=4|start=166802003|end=166802020|length=18 Query ID: lcl|Query_63078 Length: 18
+
+No significant similarity found.
+
+
+
+Query #84: chr=4|start=166802003|end=166802019|length=17 Query ID: lcl|Query_63079 Length: 17
+
+No significant similarity found.
+
+
+
+Query #85: chr=4|start=166802003|end=166802018|length=16 Query ID: lcl|Query_63080 Length: 16
+
+No significant similarity found.
+
+
+
+Query #86: chr=4|start=166802003|end=166802017|length=15 Query ID: lcl|Query_63081 Length: 15
+
+No significant similarity found.
+
+
+
+Query #87: chr=4|start=166802003|end=166802016|length=14 Query ID: lcl|Query_63082 Length: 14
+
+No significant similarity found.
+
+
+
+Query #88: chr=4|start=166802003|end=166802015|length=13 Query ID: lcl|Query_63083 Length: 13
+
+No significant similarity found.
+
+
+
+Query #89: chr=4|start=166802003|end=166802014|length=12 Query ID: lcl|Query_63084 Length: 12
+
+No significant similarity found.
+
+
+
+Query #90: chr=4|start=166802003|end=166802013|length=11 Query ID: lcl|Query_63085 Length: 11
+
+No significant similarity found.
+
+
+
+Query #91: chr=4|start=166802003|end=166802012|length=10 Query ID: lcl|Query_63086 Length: 10
+
+No significant similarity found.
+
+
+
+Query #92: chr=4|start=166802003|end=166802011|length=9 Query ID: lcl|Query_63087 Length: 9
+
+No significant similarity found.
+
+
+
+Query #93: chr=4|start=166802003|end=166802010|length=8 Query ID: lcl|Query_63088 Length: 8
+
+No significant similarity found.
+
+
+
+Query #94: chr=4|start=166802003|end=166802009|length=7 Query ID: lcl|Query_63089 Length: 7
+
+No significant similarity found.
+
+
+
+Query #95: chr=4|start=166802003|end=166802008|length=6 Query ID: lcl|Query_63090 Length: 6
+
+No significant similarity found.
+
+
+
+Query #96: chr=4|start=166802003|end=166802007|length=5 Query ID: lcl|Query_63091 Length: 5
+
+No significant similarity found.
+
+
+
+Query #97: chr=4|start=166802003|end=166802006|length=4 Query ID: lcl|Query_63092 Length: 4
+
+No significant similarity found.
+
+
+
+Query #98: chr=4|start=166802003|end=166802005|length=3 Query ID: lcl|Query_63093 Length: 3
+
+No significant similarity found.
+
+
+
+Query #99: chr=4|start=166802003|end=166802004|length=2 Query ID: lcl|Query_63094 Length: 2
+
+No significant similarity found.
+
+
+
+Query #100: chr=4|start=166802003|end=166802003|length=1 Query ID: lcl|Query_63095 Length: 1
+
+No significant similarity found.
+
+
+
+
+
+		
+
+
